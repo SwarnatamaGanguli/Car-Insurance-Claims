@@ -1,0 +1,1001 @@
+ID,Age,Gender,Race,Driving Experience,Education,Income,Vehicle Year,Postal Code,Annual Mileage,Vehicle Type,Speeding Violations,DUIS,Past Accidents,Outcome
+100001,56-64,female,majority,20-29y,high school,middle class,before 2015,50078,16925,sedan,3,1,0,0
+100002,65+,female,minority,0-9y,diploma,working class,before 2015,50078,11559,SUV,3,1,0,1
+100003,40-55,female,majority,0-9y,university,working class,before 2015,50078,12620,coupe,0,1,0,1
+100004,65+,female,minority,20-29y,diploma,working class,after 2015,30211,7774,SUV,3,0,1,1
+100005,65+,female,majority,30+ years,diploma,working class,after 2015,32765,19532,coupe,3,1,1,1
+100006,26-39,male,majority,20-29y,none,working class,before 2015,60124,10673,SUV,1,1,2,1
+100007,40-55,female,majority,30+ years,high school,upper class,before 2015,40056,8124,hatchback,2,1,1,0
+100008,40-55,male,majority,0-9y,university,upper class,after 2015,30211,13671,sedan,3,0,0,0
+100009,40-55,female,minority,0-9y,none,middle class,before 2015,60124,16706,sedan,4,1,2,0
+100010,65+,male,majority,30+ years,none,poverty,after 2015,60124,6353,SUV,3,1,2,0
+100011,56-64,female,minority,0-9y,none,middle class,after 2015,45001,16514,hatchback,0,0,1,0
+100012,40-55,male,majority,30+ years,diploma,poverty,before 2015,50078,17070,sedan,0,1,2,1
+100013,65+,female,majority,10-19y,high school,working class,before 2015,32765,14081,coupe,0,1,1,0
+100014,26-39,male,majority,20-29y,high school,poverty,after 2015,45001,8854,SUV,3,0,1,0
+100015,56-64,female,minority,10-19y,university,middle class,before 2015,10238,13134,sedan,1,1,2,1
+100016,26-39,male,majority,30+ years,high school,middle class,before 2015,30211,5924,sedan,4,1,1,1
+100017,56-64,female,minority,20-29y,high school,poverty,before 2015,30211,7170,SUV,3,1,1,0
+100018,65+,male,minority,30+ years,none,upper class,before 2015,32765,15094,SUV,1,1,1,0
+100019,16-25,male,minority,20-29y,none,working class,after 2015,60124,10506,coupe,1,1,1,1
+100020,56-64,female,minority,20-29y,diploma,working class,after 2015,30211,18650,coupe,3,0,2,0
+100021,26-39,female,minority,20-29y,none,middle class,after 2015,32765,18065,sedan,3,0,0,0
+100022,65+,male,minority,20-29y,none,upper class,after 2015,30211,7395,sedan,1,0,0,0
+100023,56-64,female,minority,30+ years,none,poverty,before 2015,30211,13220,SUV,1,1,1,1
+100024,16-25,male,minority,20-29y,none,working class,before 2015,50078,13226,sedan,1,1,1,0
+100025,16-25,male,minority,20-29y,diploma,upper class,after 2015,10238,16781,sedan,3,1,1,0
+100026,40-55,male,majority,10-19y,none,working class,after 2015,50078,10515,SUV,1,0,0,1
+100027,40-55,female,majority,0-9y,university,upper class,before 2015,10238,7670,sedan,0,1,1,1
+100028,26-39,male,majority,0-9y,university,upper class,after 2015,30211,8365,sedan,3,1,2,1
+100029,56-64,male,majority,10-19y,university,middle class,after 2015,45001,5588,hatchback,0,1,2,0
+100030,56-64,female,majority,10-19y,university,working class,before 2015,60124,16410,coupe,2,0,2,1
+100031,40-55,female,minority,30+ years,none,poverty,after 2015,30211,8138,SUV,3,0,0,0
+100032,56-64,female,minority,30+ years,university,middle class,before 2015,10238,14095,hatchback,2,1,1,1
+100033,56-64,female,minority,30+ years,none,middle class,before 2015,10238,11663,coupe,1,1,1,0
+100034,16-25,male,minority,10-19y,diploma,poverty,after 2015,10238,9086,coupe,1,1,1,1
+100035,40-55,male,minority,10-19y,university,middle class,before 2015,30211,15361,coupe,4,0,0,0
+100036,65+,male,minority,20-29y,high school,upper class,after 2015,32765,13531,hatchback,1,0,0,0
+100037,40-55,male,minority,30+ years,university,upper class,before 2015,45001,9270,hatchback,2,0,0,1
+100038,65+,female,majority,30+ years,university,working class,after 2015,32765,11019,coupe,1,1,0,1
+100039,16-25,male,majority,30+ years,none,working class,after 2015,60124,14906,sedan,3,0,2,0
+100040,26-39,male,majority,0-9y,university,poverty,after 2015,30211,17884,sedan,1,1,0,1
+100041,56-64,female,majority,20-29y,high school,working class,before 2015,10238,17738,hatchback,4,1,0,0
+100042,16-25,male,minority,30+ years,none,upper class,before 2015,45001,5556,hatchback,1,0,0,1
+100043,56-64,male,minority,30+ years,none,poverty,after 2015,45001,18447,hatchback,2,1,1,1
+100044,26-39,male,minority,30+ years,diploma,poverty,before 2015,40056,13022,coupe,2,0,1,0
+100045,26-39,male,majority,0-9y,diploma,working class,after 2015,60124,16279,sedan,1,1,1,1
+100046,16-25,male,minority,0-9y,university,upper class,after 2015,45001,10452,hatchback,2,1,2,1
+100047,26-39,male,minority,10-19y,diploma,poverty,before 2015,30211,16458,hatchback,2,0,2,0
+100048,65+,female,minority,20-29y,diploma,upper class,after 2015,10238,8567,SUV,4,1,0,0
+100049,26-39,female,majority,10-19y,diploma,upper class,before 2015,10238,15248,coupe,3,1,1,1
+100050,56-64,male,minority,20-29y,none,upper class,after 2015,45001,8899,SUV,4,1,2,0
+100051,56-64,male,majority,0-9y,none,working class,before 2015,32765,11477,sedan,0,1,1,1
+100052,56-64,female,majority,30+ years,none,middle class,after 2015,60124,12500,SUV,4,1,2,1
+100053,56-64,male,majority,10-19y,diploma,middle class,after 2015,10238,6016,SUV,1,1,2,0
+100054,65+,male,majority,30+ years,none,poverty,before 2015,45001,11470,SUV,3,1,0,0
+100055,40-55,male,minority,10-19y,diploma,upper class,after 2015,10238,7062,coupe,1,1,0,0
+100056,16-25,female,majority,0-9y,none,working class,after 2015,45001,14030,sedan,0,0,2,0
+100057,56-64,male,majority,0-9y,none,upper class,before 2015,60124,14829,SUV,3,0,0,0
+100058,26-39,female,minority,0-9y,high school,upper class,after 2015,45001,9321,coupe,2,1,2,0
+100059,56-64,male,minority,10-19y,university,working class,before 2015,40056,8496,sedan,4,1,2,1
+100060,26-39,female,majority,20-29y,diploma,middle class,after 2015,45001,6813,hatchback,1,0,1,1
+100061,26-39,female,minority,10-19y,high school,upper class,before 2015,45001,16671,SUV,0,1,0,0
+100062,56-64,male,majority,20-29y,none,upper class,after 2015,30211,11256,sedan,2,0,0,1
+100063,65+,female,majority,10-19y,diploma,middle class,after 2015,60124,19308,SUV,4,0,0,1
+100064,26-39,male,majority,10-19y,none,working class,after 2015,30211,14643,hatchback,2,0,1,1
+100065,26-39,female,majority,0-9y,university,poverty,before 2015,45001,19336,sedan,4,1,1,1
+100066,56-64,male,minority,30+ years,high school,middle class,before 2015,60124,7313,coupe,3,1,1,0
+100067,26-39,male,majority,30+ years,university,poverty,before 2015,40056,14706,sedan,2,1,0,1
+100068,26-39,female,minority,20-29y,high school,poverty,before 2015,60124,6231,coupe,2,0,0,1
+100069,56-64,male,minority,30+ years,none,middle class,after 2015,10238,14837,sedan,2,0,0,0
+100070,56-64,male,minority,10-19y,university,upper class,after 2015,30211,10831,coupe,3,0,1,0
+100071,16-25,female,minority,10-19y,university,poverty,before 2015,60124,7999,hatchback,0,1,1,0
+100072,65+,male,majority,0-9y,none,poverty,before 2015,40056,8440,hatchback,4,0,2,0
+100073,65+,male,minority,0-9y,university,working class,before 2015,50078,9056,hatchback,2,0,1,1
+100074,26-39,female,majority,30+ years,diploma,upper class,after 2015,45001,5305,sedan,3,1,2,0
+100075,65+,female,minority,20-29y,high school,poverty,before 2015,60124,19347,hatchback,0,0,0,1
+100076,26-39,male,minority,30+ years,high school,working class,before 2015,45001,16728,SUV,4,0,1,1
+100077,16-25,male,majority,30+ years,high school,upper class,after 2015,32765,14915,hatchback,3,1,0,0
+100078,56-64,female,majority,30+ years,diploma,middle class,after 2015,10238,6689,coupe,4,1,0,0
+100079,56-64,female,majority,30+ years,high school,middle class,before 2015,30211,14709,coupe,2,0,0,0
+100080,56-64,male,minority,10-19y,none,working class,after 2015,10238,18679,coupe,0,1,0,0
+100081,65+,female,minority,20-29y,university,middle class,before 2015,32765,8917,sedan,3,0,1,0
+100082,16-25,male,majority,10-19y,diploma,poverty,after 2015,32765,12080,SUV,0,1,0,0
+100083,65+,male,majority,20-29y,high school,upper class,before 2015,30211,13611,hatchback,2,0,2,1
+100084,65+,male,majority,0-9y,none,poverty,before 2015,60124,7936,SUV,0,1,1,1
+100085,16-25,male,majority,30+ years,university,poverty,before 2015,32765,8862,SUV,0,0,0,1
+100086,16-25,male,minority,10-19y,university,middle class,before 2015,50078,19506,coupe,1,1,1,1
+100087,16-25,female,majority,20-29y,diploma,poverty,after 2015,45001,17421,coupe,0,1,2,0
+100088,16-25,female,majority,0-9y,diploma,middle class,after 2015,45001,19318,coupe,4,1,0,0
+100089,56-64,female,majority,0-9y,diploma,upper class,after 2015,40056,14642,sedan,3,1,2,1
+100090,40-55,female,majority,30+ years,none,upper class,after 2015,32765,16288,SUV,1,1,0,1
+100091,40-55,male,minority,20-29y,none,poverty,before 2015,32765,10649,SUV,3,1,2,1
+100092,16-25,male,majority,10-19y,diploma,working class,before 2015,50078,8261,sedan,3,1,0,0
+100093,40-55,male,minority,30+ years,high school,middle class,after 2015,10238,14356,sedan,2,0,1,0
+100094,40-55,male,majority,10-19y,university,middle class,after 2015,10238,15061,sedan,2,0,0,0
+100095,16-25,female,majority,0-9y,university,poverty,after 2015,45001,6819,SUV,1,1,1,1
+100096,40-55,male,minority,10-19y,none,middle class,after 2015,45001,15897,SUV,2,1,0,1
+100097,65+,male,majority,10-19y,university,middle class,after 2015,60124,16707,coupe,2,0,0,0
+100098,26-39,female,minority,30+ years,high school,working class,before 2015,30211,6342,coupe,2,0,2,0
+100099,26-39,female,minority,10-19y,university,working class,before 2015,50078,10560,SUV,3,1,2,1
+100100,16-25,female,majority,30+ years,none,poverty,before 2015,30211,7226,coupe,1,0,2,1
+100101,56-64,female,minority,0-9y,none,working class,after 2015,30211,6079,sedan,3,0,0,0
+100102,16-25,male,minority,30+ years,high school,poverty,after 2015,40056,18466,hatchback,4,1,0,1
+100103,56-64,male,minority,30+ years,high school,upper class,after 2015,30211,18983,coupe,3,1,0,0
+100104,26-39,female,minority,20-29y,university,poverty,after 2015,40056,9206,SUV,4,1,1,0
+100105,16-25,male,minority,10-19y,university,upper class,before 2015,30211,11280,coupe,0,0,1,1
+100106,65+,male,minority,0-9y,none,poverty,before 2015,50078,19567,coupe,0,1,0,1
+100107,40-55,male,minority,30+ years,high school,middle class,after 2015,40056,17755,coupe,4,1,2,1
+100108,56-64,female,minority,0-9y,high school,working class,before 2015,10238,15971,hatchback,4,0,2,0
+100109,40-55,male,majority,20-29y,high school,upper class,before 2015,40056,15720,sedan,3,1,2,1
+100110,40-55,female,majority,10-19y,university,poverty,after 2015,40056,12235,SUV,4,0,0,1
+100111,16-25,male,minority,30+ years,high school,working class,after 2015,50078,5813,hatchback,1,0,2,0
+100112,40-55,male,majority,10-19y,none,poverty,after 2015,50078,18560,SUV,0,0,0,0
+100113,65+,male,minority,20-29y,none,working class,after 2015,40056,10089,SUV,0,0,1,1
+100114,40-55,female,minority,20-29y,university,working class,after 2015,32765,7031,SUV,4,0,2,0
+100115,16-25,male,majority,0-9y,diploma,poverty,after 2015,50078,13514,hatchback,2,0,1,0
+100116,65+,female,minority,30+ years,university,upper class,before 2015,60124,16161,sedan,2,1,2,0
+100117,26-39,female,minority,0-9y,diploma,upper class,before 2015,60124,14095,SUV,4,1,0,1
+100118,40-55,female,minority,20-29y,high school,middle class,after 2015,10238,14733,sedan,1,1,0,1
+100119,16-25,male,minority,10-19y,university,working class,before 2015,30211,19287,sedan,2,0,0,0
+100120,26-39,male,majority,0-9y,none,middle class,after 2015,40056,10911,coupe,4,1,0,0
+100121,26-39,male,minority,0-9y,high school,middle class,after 2015,32765,16695,hatchback,1,0,2,0
+100122,56-64,male,minority,10-19y,none,poverty,after 2015,10238,7653,hatchback,1,1,1,1
+100123,65+,female,minority,0-9y,high school,poverty,after 2015,40056,15668,coupe,3,0,0,0
+100124,40-55,female,majority,10-19y,university,poverty,before 2015,50078,8340,coupe,1,1,2,0
+100125,16-25,female,minority,30+ years,diploma,working class,after 2015,60124,12876,sedan,2,0,1,1
+100126,56-64,male,majority,10-19y,high school,poverty,before 2015,45001,17435,SUV,2,1,0,0
+100127,65+,female,majority,30+ years,diploma,poverty,after 2015,32765,6141,hatchback,4,0,1,1
+100128,56-64,male,minority,10-19y,high school,working class,after 2015,45001,14041,SUV,4,1,0,1
+100129,65+,female,minority,20-29y,none,working class,after 2015,60124,13558,SUV,1,0,1,1
+100130,65+,male,majority,20-29y,none,upper class,before 2015,30211,7897,coupe,0,1,1,0
+100131,40-55,male,minority,30+ years,high school,poverty,after 2015,30211,14281,SUV,3,1,0,0
+100132,65+,female,majority,30+ years,diploma,poverty,after 2015,45001,9041,sedan,0,1,2,1
+100133,56-64,female,majority,20-29y,university,poverty,after 2015,50078,7038,coupe,1,0,1,0
+100134,65+,female,minority,30+ years,university,upper class,before 2015,40056,16052,SUV,1,0,0,1
+100135,40-55,female,minority,10-19y,none,poverty,before 2015,50078,9270,coupe,0,0,1,0
+100136,40-55,male,majority,10-19y,university,upper class,before 2015,45001,15046,sedan,3,0,1,1
+100137,56-64,female,majority,20-29y,none,middle class,after 2015,50078,9683,sedan,0,0,2,1
+100138,26-39,female,majority,0-9y,university,upper class,before 2015,60124,5494,SUV,4,1,1,0
+100139,26-39,female,majority,10-19y,high school,middle class,after 2015,32765,12116,coupe,2,0,1,0
+100140,65+,male,minority,30+ years,none,poverty,before 2015,50078,18425,SUV,4,1,0,0
+100141,16-25,male,minority,0-9y,none,middle class,before 2015,60124,16374,SUV,2,1,0,0
+100142,65+,female,minority,0-9y,high school,upper class,after 2015,32765,6784,coupe,1,0,2,1
+100143,56-64,male,minority,10-19y,none,working class,before 2015,30211,8510,SUV,3,1,1,1
+100144,56-64,female,minority,10-19y,university,middle class,after 2015,40056,8786,sedan,0,0,1,0
+100145,56-64,male,majority,0-9y,university,middle class,after 2015,45001,10266,coupe,3,0,1,0
+100146,56-64,male,minority,0-9y,none,poverty,before 2015,30211,17322,coupe,0,0,2,1
+100147,56-64,male,minority,20-29y,university,upper class,after 2015,40056,14190,coupe,4,1,1,0
+100148,40-55,male,minority,30+ years,diploma,middle class,after 2015,30211,10428,coupe,4,0,0,0
+100149,26-39,female,minority,20-29y,none,middle class,before 2015,10238,11681,SUV,0,0,2,0
+100150,56-64,female,minority,10-19y,high school,middle class,before 2015,30211,11893,SUV,3,0,0,0
+100151,16-25,female,majority,20-29y,diploma,middle class,after 2015,60124,18325,sedan,0,1,0,1
+100152,16-25,male,majority,20-29y,none,working class,before 2015,32765,17661,hatchback,1,0,2,1
+100153,16-25,female,majority,20-29y,high school,upper class,after 2015,30211,19892,hatchback,4,1,0,0
+100154,16-25,female,minority,20-29y,university,poverty,after 2015,50078,14643,sedan,1,1,1,1
+100155,40-55,female,majority,30+ years,high school,poverty,before 2015,40056,14943,hatchback,4,0,2,0
+100156,16-25,male,majority,30+ years,diploma,working class,before 2015,30211,15472,sedan,4,1,0,0
+100157,56-64,male,minority,0-9y,university,upper class,before 2015,32765,17992,SUV,2,1,1,0
+100158,65+,male,minority,10-19y,none,middle class,before 2015,60124,9658,coupe,1,0,1,1
+100159,16-25,female,minority,20-29y,university,working class,after 2015,10238,12082,coupe,1,0,0,1
+100160,40-55,female,majority,0-9y,none,upper class,after 2015,40056,16126,SUV,2,0,1,1
+100161,40-55,female,majority,0-9y,none,middle class,before 2015,45001,11869,coupe,3,1,2,1
+100162,16-25,male,minority,0-9y,high school,working class,before 2015,32765,16926,coupe,1,0,0,1
+100163,65+,male,minority,30+ years,high school,upper class,after 2015,45001,12607,hatchback,0,1,1,0
+100164,16-25,female,majority,20-29y,high school,poverty,after 2015,32765,12669,SUV,2,1,1,0
+100165,40-55,male,majority,20-29y,diploma,poverty,after 2015,32765,16538,hatchback,1,1,0,1
+100166,26-39,male,minority,10-19y,diploma,upper class,after 2015,60124,15065,hatchback,3,1,0,1
+100167,56-64,male,minority,20-29y,high school,poverty,before 2015,60124,11219,coupe,1,1,0,1
+100168,40-55,male,majority,20-29y,diploma,upper class,after 2015,60124,9534,coupe,4,0,0,0
+100169,16-25,female,minority,0-9y,university,middle class,after 2015,30211,16995,SUV,0,0,2,1
+100170,56-64,male,majority,10-19y,university,upper class,before 2015,50078,10979,coupe,2,1,0,0
+100171,16-25,male,majority,20-29y,diploma,middle class,after 2015,32765,15171,coupe,4,1,2,0
+100172,16-25,male,majority,30+ years,diploma,working class,after 2015,40056,13890,SUV,3,0,2,1
+100173,26-39,male,majority,20-29y,university,upper class,before 2015,45001,6312,coupe,4,0,0,0
+100174,56-64,female,minority,0-9y,none,working class,before 2015,60124,7962,hatchback,4,1,2,0
+100175,56-64,female,minority,30+ years,university,poverty,before 2015,30211,18851,SUV,3,1,0,1
+100176,26-39,male,majority,0-9y,university,middle class,after 2015,60124,7938,coupe,4,0,0,0
+100177,40-55,male,majority,20-29y,diploma,upper class,after 2015,45001,17979,sedan,2,0,1,1
+100178,16-25,male,majority,30+ years,university,working class,before 2015,45001,15492,SUV,1,1,0,0
+100179,65+,male,majority,10-19y,diploma,middle class,before 2015,32765,8197,SUV,4,0,1,1
+100180,16-25,male,majority,10-19y,diploma,middle class,after 2015,60124,10296,sedan,2,0,2,1
+100181,16-25,male,minority,30+ years,high school,poverty,before 2015,45001,12204,coupe,1,1,1,0
+100182,40-55,female,minority,30+ years,university,poverty,before 2015,50078,19745,coupe,1,1,2,1
+100183,16-25,male,minority,0-9y,none,middle class,before 2015,50078,10730,SUV,4,1,0,0
+100184,26-39,female,minority,30+ years,high school,middle class,after 2015,60124,18921,SUV,2,0,2,0
+100185,26-39,female,majority,0-9y,diploma,upper class,after 2015,30211,5126,coupe,4,1,2,1
+100186,56-64,male,majority,20-29y,diploma,middle class,after 2015,45001,10602,coupe,3,0,0,0
+100187,65+,female,majority,0-9y,none,upper class,after 2015,32765,6191,hatchback,1,1,2,1
+100188,16-25,female,majority,30+ years,diploma,middle class,after 2015,32765,7639,SUV,4,1,0,0
+100189,16-25,female,majority,30+ years,university,poverty,after 2015,30211,17581,SUV,1,0,1,0
+100190,40-55,female,minority,20-29y,high school,upper class,before 2015,32765,17108,sedan,2,0,0,1
+100191,26-39,female,majority,30+ years,diploma,working class,after 2015,10238,6366,hatchback,0,1,0,0
+100192,65+,female,minority,30+ years,diploma,poverty,after 2015,60124,14211,coupe,4,1,2,0
+100193,56-64,male,minority,10-19y,none,upper class,before 2015,32765,11453,hatchback,4,0,1,0
+100194,26-39,female,minority,10-19y,university,upper class,after 2015,50078,19997,coupe,1,1,0,0
+100195,56-64,female,minority,20-29y,diploma,working class,after 2015,45001,11671,coupe,2,0,1,0
+100196,40-55,female,majority,0-9y,none,upper class,before 2015,40056,11683,hatchback,3,0,1,0
+100197,40-55,male,minority,10-19y,diploma,middle class,before 2015,30211,17271,SUV,2,1,2,0
+100198,16-25,female,minority,0-9y,none,working class,before 2015,40056,17706,coupe,4,0,0,0
+100199,65+,male,minority,30+ years,none,poverty,after 2015,32765,9539,hatchback,3,0,2,1
+100200,56-64,female,majority,10-19y,university,poverty,before 2015,40056,13876,sedan,2,0,0,0
+100201,26-39,male,majority,20-29y,diploma,middle class,after 2015,40056,16821,hatchback,0,1,1,0
+100202,40-55,male,majority,20-29y,university,poverty,after 2015,10238,7887,sedan,1,0,0,1
+100203,16-25,female,minority,20-29y,none,upper class,after 2015,50078,19571,coupe,2,1,0,1
+100204,16-25,female,minority,10-19y,high school,upper class,after 2015,30211,14654,hatchback,2,1,1,1
+100205,56-64,male,majority,0-9y,diploma,middle class,before 2015,50078,9086,hatchback,0,1,1,0
+100206,40-55,female,minority,30+ years,high school,poverty,before 2015,10238,7261,sedan,4,0,0,1
+100207,65+,male,majority,0-9y,diploma,poverty,after 2015,10238,9180,hatchback,1,0,2,1
+100208,40-55,male,majority,0-9y,university,middle class,before 2015,40056,7841,hatchback,2,1,0,0
+100209,56-64,male,minority,30+ years,university,working class,after 2015,60124,14959,coupe,3,1,1,0
+100210,56-64,male,minority,30+ years,university,poverty,after 2015,45001,17372,hatchback,2,0,2,1
+100211,40-55,male,minority,10-19y,university,working class,after 2015,45001,11040,SUV,1,1,1,1
+100212,56-64,female,minority,10-19y,university,poverty,before 2015,40056,8560,sedan,2,1,1,0
+100213,40-55,male,majority,10-19y,high school,poverty,after 2015,45001,15304,hatchback,0,0,2,0
+100214,26-39,male,majority,10-19y,university,poverty,after 2015,10238,18957,sedan,2,1,1,0
+100215,40-55,female,majority,10-19y,none,poverty,before 2015,50078,9758,sedan,2,0,1,0
+100216,40-55,male,majority,30+ years,none,upper class,before 2015,45001,5626,sedan,3,0,1,0
+100217,56-64,female,majority,0-9y,high school,working class,before 2015,30211,17351,hatchback,0,1,1,1
+100218,56-64,female,minority,10-19y,diploma,working class,before 2015,40056,16606,hatchback,0,0,1,0
+100219,16-25,female,majority,10-19y,none,poverty,after 2015,60124,10014,sedan,2,0,1,0
+100220,16-25,male,majority,0-9y,diploma,poverty,before 2015,40056,6375,SUV,3,0,1,0
+100221,26-39,male,majority,10-19y,high school,working class,after 2015,32765,6181,sedan,2,1,1,0
+100222,16-25,male,minority,0-9y,diploma,upper class,before 2015,40056,10708,SUV,2,1,1,0
+100223,40-55,female,minority,0-9y,diploma,middle class,before 2015,10238,5490,sedan,1,1,0,1
+100224,56-64,male,minority,30+ years,diploma,middle class,before 2015,50078,8729,coupe,1,0,0,0
+100225,16-25,female,minority,20-29y,diploma,working class,before 2015,50078,10974,sedan,3,0,1,1
+100226,16-25,male,majority,30+ years,high school,poverty,before 2015,30211,8534,sedan,4,1,0,0
+100227,26-39,female,majority,20-29y,none,poverty,before 2015,45001,8296,hatchback,1,1,2,1
+100228,26-39,male,minority,20-29y,university,upper class,after 2015,10238,6940,SUV,4,0,0,1
+100229,40-55,male,minority,20-29y,diploma,middle class,before 2015,32765,17600,coupe,0,1,1,0
+100230,56-64,male,majority,10-19y,none,upper class,before 2015,10238,19950,SUV,1,1,1,0
+100231,26-39,female,majority,30+ years,none,middle class,before 2015,40056,10014,coupe,1,1,0,0
+100232,16-25,female,minority,20-29y,high school,working class,before 2015,10238,6882,sedan,3,1,1,0
+100233,56-64,male,minority,0-9y,none,middle class,after 2015,10238,9908,hatchback,4,1,2,0
+100234,56-64,male,minority,10-19y,high school,upper class,before 2015,30211,7987,hatchback,1,0,2,1
+100235,16-25,female,minority,30+ years,diploma,upper class,before 2015,32765,10585,SUV,1,1,1,0
+100236,26-39,female,majority,20-29y,diploma,upper class,before 2015,40056,8159,hatchback,3,1,2,0
+100237,16-25,female,majority,0-9y,university,working class,before 2015,60124,18614,SUV,3,0,2,1
+100238,56-64,male,majority,30+ years,university,middle class,after 2015,30211,17967,SUV,4,0,0,0
+100239,65+,female,minority,30+ years,university,middle class,before 2015,60124,9530,coupe,0,0,2,1
+100240,65+,male,minority,10-19y,none,upper class,after 2015,30211,5681,SUV,0,0,0,0
+100241,40-55,female,majority,30+ years,diploma,middle class,before 2015,50078,10254,coupe,2,1,1,1
+100242,16-25,male,majority,10-19y,high school,poverty,after 2015,30211,6073,hatchback,1,1,0,0
+100243,16-25,female,majority,20-29y,university,poverty,after 2015,45001,18743,SUV,4,1,1,1
+100244,40-55,female,majority,10-19y,high school,poverty,before 2015,10238,7387,SUV,1,1,1,1
+100245,40-55,female,minority,0-9y,high school,middle class,before 2015,50078,15586,sedan,4,0,1,0
+100246,40-55,female,majority,10-19y,university,working class,after 2015,32765,7693,SUV,4,0,1,0
+100247,56-64,female,majority,0-9y,diploma,working class,after 2015,60124,14562,SUV,4,1,1,0
+100248,16-25,male,majority,10-19y,university,working class,before 2015,30211,17936,sedan,1,1,0,1
+100249,56-64,female,majority,30+ years,high school,working class,after 2015,10238,9340,sedan,3,1,1,1
+100250,40-55,female,majority,20-29y,university,poverty,after 2015,32765,7156,hatchback,1,1,2,1
+100251,16-25,female,majority,0-9y,high school,poverty,after 2015,45001,12966,SUV,4,0,2,0
+100252,56-64,male,majority,10-19y,high school,upper class,before 2015,32765,7580,hatchback,2,1,1,0
+100253,56-64,female,minority,10-19y,university,middle class,after 2015,10238,12257,hatchback,0,0,2,1
+100254,40-55,male,minority,10-19y,none,middle class,after 2015,45001,17583,sedan,4,0,0,0
+100255,16-25,female,minority,30+ years,university,working class,after 2015,32765,7159,coupe,2,0,0,1
+100256,40-55,female,minority,30+ years,none,poverty,before 2015,45001,18900,hatchback,3,0,1,0
+100257,16-25,male,majority,0-9y,high school,working class,before 2015,30211,16440,coupe,4,1,1,0
+100258,65+,female,minority,0-9y,high school,upper class,after 2015,30211,19678,SUV,2,1,1,1
+100259,26-39,male,minority,30+ years,none,middle class,before 2015,10238,16923,sedan,4,1,2,0
+100260,26-39,male,majority,0-9y,high school,middle class,after 2015,10238,19436,SUV,1,1,2,0
+100261,26-39,female,majority,20-29y,none,working class,before 2015,45001,17021,SUV,2,0,0,0
+100262,40-55,male,minority,20-29y,none,upper class,before 2015,40056,11772,sedan,1,0,2,0
+100263,65+,female,minority,30+ years,high school,middle class,after 2015,50078,6627,SUV,1,0,0,0
+100264,16-25,female,majority,0-9y,diploma,upper class,before 2015,32765,16664,sedan,2,1,2,1
+100265,56-64,male,minority,10-19y,none,upper class,before 2015,32765,13219,coupe,0,0,0,0
+100266,16-25,male,majority,20-29y,university,working class,before 2015,40056,12080,SUV,2,0,1,1
+100267,56-64,male,majority,30+ years,university,poverty,after 2015,40056,6985,sedan,0,0,2,0
+100268,16-25,male,majority,0-9y,high school,working class,before 2015,40056,18848,hatchback,4,0,0,0
+100269,65+,female,majority,30+ years,diploma,poverty,before 2015,60124,17345,SUV,4,1,2,1
+100270,56-64,female,minority,10-19y,high school,upper class,after 2015,60124,14713,coupe,2,0,1,1
+100271,40-55,male,majority,20-29y,diploma,poverty,before 2015,45001,13488,sedan,4,0,0,0
+100272,16-25,female,majority,30+ years,none,upper class,before 2015,60124,7181,SUV,3,1,2,0
+100273,16-25,female,minority,30+ years,none,middle class,before 2015,30211,16594,SUV,1,1,2,1
+100274,56-64,female,majority,30+ years,none,middle class,before 2015,30211,7296,SUV,1,1,1,1
+100275,40-55,female,minority,10-19y,none,middle class,before 2015,10238,12164,coupe,0,0,1,1
+100276,40-55,male,minority,30+ years,university,working class,after 2015,45001,7597,sedan,4,0,0,1
+100277,65+,male,minority,10-19y,university,working class,after 2015,32765,5901,hatchback,0,0,2,0
+100278,40-55,female,majority,10-19y,high school,upper class,before 2015,50078,11060,hatchback,1,0,2,0
+100279,40-55,male,minority,10-19y,diploma,middle class,before 2015,10238,14290,hatchback,1,1,1,0
+100280,40-55,male,minority,20-29y,none,working class,before 2015,32765,6677,sedan,4,0,1,0
+100281,26-39,male,majority,20-29y,none,middle class,after 2015,32765,7881,hatchback,3,0,0,0
+100282,65+,female,minority,30+ years,diploma,working class,after 2015,45001,18479,coupe,3,1,2,1
+100283,16-25,female,minority,30+ years,diploma,poverty,before 2015,40056,18058,sedan,4,1,2,1
+100284,56-64,female,minority,20-29y,high school,poverty,before 2015,40056,10622,SUV,4,1,0,1
+100285,16-25,male,minority,0-9y,diploma,middle class,after 2015,10238,13052,coupe,0,0,0,0
+100286,65+,female,minority,20-29y,none,upper class,before 2015,40056,6378,SUV,4,0,1,1
+100287,56-64,female,majority,10-19y,none,working class,after 2015,32765,6248,hatchback,3,0,1,0
+100288,65+,male,minority,20-29y,none,working class,after 2015,40056,16927,coupe,4,0,0,0
+100289,40-55,female,minority,10-19y,none,poverty,before 2015,60124,10650,sedan,0,0,0,0
+100290,56-64,female,majority,30+ years,none,poverty,after 2015,40056,17433,coupe,0,1,2,1
+100291,40-55,male,majority,0-9y,high school,upper class,before 2015,32765,11079,SUV,0,1,0,0
+100292,16-25,male,majority,30+ years,none,upper class,before 2015,45001,14456,sedan,0,0,0,0
+100293,16-25,male,minority,10-19y,high school,upper class,before 2015,10238,15099,coupe,2,0,2,1
+100294,56-64,female,majority,10-19y,none,middle class,before 2015,50078,12036,coupe,4,0,0,0
+100295,56-64,female,minority,10-19y,university,poverty,before 2015,40056,11487,coupe,1,0,1,1
+100296,65+,female,minority,0-9y,university,middle class,before 2015,30211,19060,coupe,4,0,1,0
+100297,65+,male,majority,20-29y,university,poverty,after 2015,30211,6058,sedan,2,1,2,1
+100298,40-55,male,majority,30+ years,university,poverty,after 2015,32765,15941,SUV,0,1,0,0
+100299,56-64,female,minority,30+ years,high school,working class,after 2015,50078,7048,coupe,2,1,1,0
+100300,16-25,female,majority,20-29y,high school,poverty,after 2015,50078,11115,sedan,3,0,1,1
+100301,65+,male,minority,30+ years,diploma,poverty,before 2015,60124,9248,SUV,3,0,1,0
+100302,65+,male,majority,0-9y,none,middle class,after 2015,50078,7476,coupe,4,1,1,1
+100303,16-25,male,majority,30+ years,university,poverty,after 2015,30211,17208,SUV,4,1,0,0
+100304,65+,male,majority,10-19y,high school,middle class,after 2015,45001,9603,SUV,1,0,0,1
+100305,40-55,female,minority,20-29y,none,upper class,before 2015,32765,16389,sedan,1,1,0,0
+100306,56-64,male,majority,0-9y,none,poverty,after 2015,32765,17778,SUV,3,1,0,0
+100307,16-25,female,minority,20-29y,high school,poverty,before 2015,40056,8553,sedan,0,0,1,0
+100308,56-64,female,minority,0-9y,university,middle class,after 2015,40056,17632,coupe,2,1,2,1
+100309,65+,female,minority,10-19y,diploma,upper class,before 2015,40056,19223,SUV,1,1,2,1
+100310,65+,male,minority,20-29y,none,working class,before 2015,30211,14953,SUV,1,1,1,1
+100311,16-25,male,majority,30+ years,diploma,upper class,after 2015,30211,5220,hatchback,0,0,1,1
+100312,40-55,male,minority,0-9y,university,middle class,before 2015,30211,19226,coupe,0,1,2,1
+100313,26-39,male,minority,20-29y,university,upper class,before 2015,30211,19230,coupe,4,1,2,0
+100314,16-25,female,majority,30+ years,diploma,middle class,after 2015,30211,9818,hatchback,2,1,1,0
+100315,26-39,male,minority,20-29y,university,middle class,after 2015,30211,12192,hatchback,0,0,1,0
+100316,26-39,male,majority,20-29y,none,working class,after 2015,45001,9623,sedan,1,0,0,0
+100317,40-55,female,minority,20-29y,diploma,poverty,before 2015,30211,12349,sedan,1,1,0,0
+100318,26-39,male,majority,0-9y,university,middle class,before 2015,50078,10618,SUV,3,0,2,1
+100319,26-39,female,minority,30+ years,diploma,middle class,before 2015,50078,16080,SUV,0,1,1,0
+100320,40-55,female,majority,10-19y,none,working class,after 2015,60124,14856,SUV,4,0,2,1
+100321,26-39,female,minority,0-9y,university,middle class,before 2015,45001,12209,SUV,2,0,0,0
+100322,26-39,female,minority,0-9y,none,poverty,before 2015,40056,17178,sedan,4,1,0,1
+100323,26-39,female,majority,0-9y,university,working class,before 2015,10238,9576,coupe,1,1,2,1
+100324,16-25,female,majority,10-19y,high school,poverty,before 2015,30211,16169,SUV,4,1,0,1
+100325,16-25,female,majority,30+ years,university,poverty,before 2015,60124,6871,coupe,1,0,1,0
+100326,16-25,female,majority,30+ years,diploma,working class,before 2015,10238,12915,SUV,1,1,2,0
+100327,40-55,male,minority,30+ years,university,middle class,before 2015,50078,6462,hatchback,1,0,1,0
+100328,65+,male,minority,20-29y,none,poverty,after 2015,60124,10521,SUV,1,0,1,0
+100329,26-39,male,majority,20-29y,none,poverty,after 2015,60124,13536,SUV,1,1,0,1
+100330,26-39,male,minority,20-29y,university,poverty,after 2015,32765,13236,SUV,3,0,1,1
+100331,40-55,female,majority,10-19y,diploma,poverty,before 2015,50078,12813,sedan,4,1,2,1
+100332,26-39,male,majority,20-29y,high school,working class,before 2015,50078,7068,hatchback,3,0,1,1
+100333,16-25,female,minority,10-19y,diploma,working class,after 2015,45001,10753,SUV,3,1,1,0
+100334,65+,male,minority,30+ years,high school,upper class,before 2015,60124,12237,SUV,0,0,1,1
+100335,56-64,male,minority,20-29y,none,upper class,after 2015,30211,19175,coupe,0,0,1,0
+100336,26-39,male,minority,20-29y,diploma,poverty,before 2015,50078,12016,hatchback,0,1,1,1
+100337,16-25,female,minority,0-9y,high school,middle class,before 2015,60124,11191,SUV,2,0,0,1
+100338,56-64,male,minority,10-19y,university,poverty,after 2015,45001,6514,coupe,0,1,2,1
+100339,65+,female,minority,30+ years,none,middle class,after 2015,30211,7598,coupe,4,0,0,0
+100340,56-64,female,majority,0-9y,university,poverty,after 2015,45001,19622,sedan,3,0,2,0
+100341,16-25,male,majority,0-9y,none,upper class,after 2015,32765,6001,coupe,4,0,2,1
+100342,56-64,male,majority,30+ years,diploma,upper class,after 2015,30211,6033,SUV,0,1,2,1
+100343,40-55,male,majority,0-9y,diploma,middle class,before 2015,60124,19877,sedan,2,1,2,1
+100344,56-64,female,majority,10-19y,none,poverty,before 2015,50078,15232,sedan,2,1,2,0
+100345,26-39,male,minority,10-19y,none,middle class,before 2015,50078,11899,SUV,3,1,1,0
+100346,26-39,female,majority,20-29y,none,upper class,after 2015,60124,13465,hatchback,4,1,0,0
+100347,40-55,female,majority,0-9y,diploma,poverty,after 2015,60124,10051,coupe,1,0,0,1
+100348,16-25,male,majority,20-29y,high school,poverty,after 2015,60124,15839,sedan,4,0,1,0
+100349,26-39,male,majority,0-9y,university,middle class,after 2015,40056,14971,hatchback,0,1,2,1
+100350,65+,female,majority,10-19y,university,working class,after 2015,30211,9476,SUV,1,0,0,0
+100351,26-39,female,majority,10-19y,diploma,middle class,after 2015,50078,18640,coupe,2,0,1,1
+100352,26-39,female,majority,10-19y,university,upper class,before 2015,30211,5478,coupe,3,0,1,1
+100353,16-25,male,minority,0-9y,none,upper class,before 2015,45001,19350,sedan,3,0,0,0
+100354,56-64,female,minority,10-19y,high school,upper class,before 2015,50078,5515,coupe,2,1,0,1
+100355,26-39,male,majority,0-9y,university,upper class,before 2015,40056,17478,coupe,0,0,2,1
+100356,40-55,female,minority,20-29y,high school,upper class,before 2015,60124,6191,coupe,2,1,2,1
+100357,56-64,female,minority,0-9y,none,working class,after 2015,32765,15860,coupe,0,1,0,0
+100358,65+,male,minority,20-29y,university,poverty,after 2015,60124,18448,SUV,1,0,2,1
+100359,16-25,female,minority,0-9y,diploma,middle class,after 2015,60124,11297,hatchback,2,1,1,0
+100360,65+,male,majority,20-29y,high school,middle class,after 2015,40056,14603,SUV,0,0,2,0
+100361,56-64,male,minority,10-19y,none,upper class,after 2015,30211,16472,SUV,1,0,2,1
+100362,56-64,female,minority,20-29y,high school,middle class,after 2015,50078,5271,sedan,2,0,1,0
+100363,56-64,male,minority,10-19y,university,upper class,before 2015,60124,13334,coupe,3,1,2,1
+100364,65+,male,majority,10-19y,university,working class,after 2015,50078,12778,SUV,2,1,1,0
+100365,56-64,female,majority,20-29y,diploma,working class,after 2015,10238,11008,coupe,4,1,2,1
+100366,65+,male,majority,0-9y,none,poverty,after 2015,45001,12987,SUV,2,0,0,0
+100367,56-64,male,majority,0-9y,none,working class,after 2015,30211,18380,SUV,4,0,2,1
+100368,40-55,male,majority,30+ years,diploma,working class,before 2015,50078,19582,sedan,1,0,0,1
+100369,56-64,female,majority,0-9y,diploma,poverty,before 2015,32765,8332,hatchback,2,1,0,1
+100370,65+,male,majority,30+ years,none,middle class,after 2015,45001,5787,hatchback,1,0,0,1
+100371,26-39,female,minority,0-9y,high school,upper class,before 2015,32765,11222,SUV,1,0,0,0
+100372,56-64,female,minority,0-9y,high school,upper class,before 2015,60124,14873,sedan,0,1,0,0
+100373,26-39,male,minority,10-19y,diploma,middle class,after 2015,45001,5622,coupe,1,1,1,1
+100374,40-55,male,majority,30+ years,high school,poverty,after 2015,50078,8841,coupe,1,1,1,0
+100375,16-25,male,majority,0-9y,none,middle class,after 2015,45001,8676,SUV,2,0,1,1
+100376,40-55,female,majority,30+ years,university,working class,after 2015,60124,7572,hatchback,2,0,0,1
+100377,56-64,male,majority,10-19y,university,poverty,after 2015,40056,11915,sedan,3,0,2,0
+100378,26-39,male,majority,10-19y,high school,poverty,before 2015,30211,10033,hatchback,0,1,1,0
+100379,26-39,male,minority,30+ years,diploma,poverty,after 2015,32765,12788,coupe,1,1,2,1
+100380,65+,male,minority,10-19y,diploma,upper class,after 2015,60124,16452,hatchback,0,1,2,0
+100381,26-39,male,majority,20-29y,diploma,middle class,after 2015,40056,10214,coupe,4,1,0,1
+100382,65+,female,majority,20-29y,diploma,poverty,before 2015,45001,9712,sedan,1,0,0,0
+100383,16-25,female,majority,10-19y,diploma,poverty,after 2015,45001,18319,sedan,0,0,0,0
+100384,56-64,male,majority,20-29y,high school,poverty,after 2015,60124,5066,SUV,3,0,1,0
+100385,65+,male,minority,0-9y,university,middle class,after 2015,50078,17478,SUV,3,0,0,0
+100386,16-25,male,majority,30+ years,university,upper class,before 2015,45001,12533,hatchback,1,0,1,0
+100387,26-39,male,majority,0-9y,high school,working class,after 2015,50078,9616,sedan,4,0,1,1
+100388,26-39,female,majority,30+ years,diploma,upper class,after 2015,50078,18277,sedan,3,0,1,0
+100389,16-25,male,majority,10-19y,high school,poverty,after 2015,30211,6140,SUV,3,0,1,0
+100390,26-39,female,minority,0-9y,university,upper class,before 2015,50078,15506,coupe,4,1,0,1
+100391,16-25,female,majority,10-19y,none,upper class,after 2015,10238,10730,hatchback,0,1,1,1
+100392,65+,male,majority,10-19y,high school,working class,after 2015,30211,15724,hatchback,3,0,0,1
+100393,65+,female,minority,30+ years,diploma,middle class,after 2015,40056,16772,SUV,2,1,0,0
+100394,16-25,female,minority,30+ years,university,middle class,before 2015,40056,12465,sedan,3,0,1,0
+100395,65+,female,minority,30+ years,university,upper class,after 2015,45001,14379,SUV,0,0,0,1
+100396,65+,female,majority,0-9y,university,upper class,after 2015,45001,9471,SUV,0,1,2,1
+100397,65+,male,majority,20-29y,university,middle class,after 2015,50078,17940,SUV,1,0,0,1
+100398,40-55,male,minority,30+ years,diploma,middle class,before 2015,30211,8339,SUV,2,0,0,1
+100399,56-64,female,minority,30+ years,none,working class,before 2015,30211,5548,coupe,0,0,1,0
+100400,26-39,male,minority,0-9y,university,poverty,after 2015,10238,18385,coupe,4,0,1,0
+100401,40-55,male,minority,30+ years,high school,upper class,before 2015,50078,12675,sedan,2,0,0,0
+100402,65+,male,minority,0-9y,none,middle class,before 2015,10238,17279,SUV,2,0,1,0
+100403,16-25,male,minority,10-19y,university,upper class,before 2015,50078,13264,coupe,4,0,2,0
+100404,65+,male,majority,30+ years,none,upper class,after 2015,32765,19643,sedan,3,1,2,1
+100405,56-64,female,majority,30+ years,high school,middle class,after 2015,32765,5198,SUV,4,1,1,0
+100406,65+,male,majority,10-19y,university,working class,before 2015,60124,16393,hatchback,4,0,0,1
+100407,16-25,male,minority,10-19y,high school,upper class,before 2015,50078,14973,coupe,3,1,2,1
+100408,56-64,male,minority,10-19y,diploma,working class,before 2015,30211,5571,sedan,3,0,2,1
+100409,65+,male,minority,30+ years,university,middle class,after 2015,45001,5790,hatchback,3,0,0,0
+100410,56-64,female,minority,20-29y,university,poverty,after 2015,40056,14830,SUV,3,0,1,1
+100411,26-39,female,minority,20-29y,university,poverty,before 2015,60124,15023,SUV,3,0,2,0
+100412,26-39,female,minority,20-29y,university,upper class,before 2015,45001,15047,SUV,4,1,0,1
+100413,65+,female,majority,30+ years,diploma,middle class,before 2015,32765,18798,coupe,1,1,0,0
+100414,56-64,male,majority,10-19y,university,working class,before 2015,50078,6174,sedan,1,1,2,1
+100415,16-25,female,minority,30+ years,none,upper class,after 2015,60124,16932,hatchback,0,1,1,0
+100416,65+,male,majority,10-19y,university,middle class,before 2015,50078,16469,sedan,1,0,2,1
+100417,26-39,male,minority,30+ years,diploma,middle class,after 2015,32765,5178,coupe,1,1,0,1
+100418,26-39,male,majority,30+ years,university,working class,before 2015,60124,7244,sedan,4,0,2,1
+100419,65+,male,minority,10-19y,none,upper class,before 2015,32765,9086,coupe,3,0,1,1
+100420,56-64,male,minority,20-29y,diploma,middle class,before 2015,10238,5734,SUV,3,1,0,0
+100421,26-39,female,majority,10-19y,diploma,middle class,before 2015,32765,11232,hatchback,4,0,1,0
+100422,56-64,female,majority,0-9y,none,middle class,before 2015,30211,5798,SUV,1,1,2,0
+100423,26-39,female,minority,0-9y,none,working class,after 2015,30211,12601,sedan,4,1,2,1
+100424,26-39,female,minority,10-19y,none,upper class,before 2015,50078,13979,SUV,0,1,1,1
+100425,40-55,male,majority,30+ years,none,upper class,before 2015,40056,7795,hatchback,3,1,2,1
+100426,26-39,female,majority,0-9y,none,upper class,before 2015,32765,17496,SUV,2,1,1,1
+100427,16-25,male,minority,0-9y,diploma,upper class,after 2015,45001,9588,hatchback,0,0,2,1
+100428,65+,female,majority,30+ years,diploma,poverty,after 2015,30211,12297,hatchback,0,1,1,1
+100429,65+,male,minority,30+ years,university,poverty,after 2015,40056,8084,SUV,4,1,1,0
+100430,56-64,male,minority,20-29y,university,upper class,after 2015,10238,18945,coupe,1,0,0,0
+100431,26-39,female,minority,30+ years,high school,working class,before 2015,60124,16110,sedan,3,1,0,0
+100432,16-25,male,minority,10-19y,university,poverty,before 2015,60124,5731,coupe,2,1,1,0
+100433,56-64,male,majority,10-19y,university,middle class,before 2015,30211,6129,coupe,0,0,2,0
+100434,40-55,female,majority,20-29y,none,poverty,after 2015,40056,16638,SUV,2,0,2,0
+100435,56-64,male,majority,0-9y,none,middle class,before 2015,30211,6605,sedan,1,1,2,0
+100436,56-64,female,majority,0-9y,university,upper class,before 2015,60124,16970,sedan,1,0,1,0
+100437,26-39,female,majority,30+ years,high school,poverty,after 2015,32765,15937,coupe,2,1,1,1
+100438,40-55,female,majority,10-19y,none,working class,after 2015,40056,16362,SUV,3,0,1,1
+100439,56-64,male,majority,0-9y,university,poverty,after 2015,50078,17881,sedan,1,1,1,1
+100440,16-25,male,minority,20-29y,university,poverty,before 2015,32765,7933,coupe,2,1,0,1
+100441,16-25,male,majority,20-29y,diploma,poverty,before 2015,32765,14407,sedan,0,1,1,1
+100442,65+,female,majority,10-19y,high school,upper class,after 2015,32765,13516,SUV,2,0,2,1
+100443,40-55,male,minority,20-29y,diploma,working class,before 2015,50078,10074,SUV,2,1,0,1
+100444,40-55,female,majority,20-29y,high school,poverty,after 2015,10238,19037,SUV,4,0,2,0
+100445,65+,female,majority,10-19y,none,working class,after 2015,45001,15042,sedan,1,1,1,0
+100446,56-64,male,minority,30+ years,high school,upper class,before 2015,30211,12099,hatchback,3,1,0,1
+100447,40-55,female,majority,30+ years,university,middle class,after 2015,60124,6490,sedan,3,1,1,0
+100448,16-25,male,majority,20-29y,university,poverty,after 2015,30211,5893,hatchback,4,1,0,0
+100449,16-25,male,majority,30+ years,high school,working class,after 2015,40056,6390,SUV,3,1,2,0
+100450,26-39,male,minority,30+ years,high school,working class,before 2015,10238,8389,coupe,2,0,1,0
+100451,40-55,male,majority,20-29y,high school,upper class,after 2015,40056,9239,hatchback,4,0,1,0
+100452,56-64,male,majority,30+ years,diploma,poverty,after 2015,30211,9479,SUV,0,0,0,1
+100453,65+,female,minority,20-29y,high school,middle class,after 2015,60124,7263,SUV,1,1,0,0
+100454,65+,female,majority,0-9y,none,working class,after 2015,50078,8432,hatchback,1,1,1,1
+100455,56-64,female,minority,10-19y,diploma,poverty,after 2015,30211,7371,coupe,1,0,0,1
+100456,26-39,male,minority,10-19y,diploma,middle class,after 2015,32765,16278,SUV,2,1,1,1
+100457,65+,male,majority,30+ years,high school,working class,after 2015,30211,9312,hatchback,0,1,0,0
+100458,40-55,male,minority,30+ years,none,working class,before 2015,32765,6515,coupe,4,1,2,1
+100459,26-39,female,minority,30+ years,diploma,middle class,before 2015,50078,11326,coupe,4,0,0,1
+100460,40-55,male,majority,10-19y,university,middle class,after 2015,30211,19605,SUV,1,0,2,1
+100461,16-25,female,minority,0-9y,diploma,upper class,before 2015,10238,12088,sedan,0,0,0,1
+100462,26-39,female,minority,0-9y,high school,poverty,before 2015,10238,10586,sedan,0,0,0,0
+100463,65+,male,majority,10-19y,none,poverty,after 2015,40056,7917,SUV,0,0,1,1
+100464,26-39,male,majority,0-9y,high school,upper class,before 2015,50078,10731,coupe,3,1,0,1
+100465,26-39,female,majority,10-19y,university,working class,after 2015,10238,12686,SUV,3,1,0,1
+100466,26-39,male,minority,0-9y,university,middle class,after 2015,30211,19802,hatchback,1,1,2,1
+100467,26-39,female,majority,20-29y,university,middle class,after 2015,50078,15544,sedan,0,1,0,0
+100468,40-55,male,minority,20-29y,high school,middle class,after 2015,60124,6167,hatchback,0,0,1,1
+100469,16-25,male,minority,10-19y,diploma,working class,after 2015,32765,13302,SUV,4,0,2,1
+100470,56-64,female,minority,0-9y,high school,middle class,before 2015,30211,10109,SUV,4,1,1,1
+100471,26-39,male,minority,30+ years,none,middle class,after 2015,32765,9327,coupe,1,0,1,1
+100472,65+,female,minority,0-9y,diploma,upper class,before 2015,32765,10810,coupe,0,1,1,1
+100473,26-39,male,minority,20-29y,university,working class,after 2015,50078,8655,coupe,1,1,1,1
+100474,65+,female,minority,20-29y,high school,poverty,after 2015,50078,8793,hatchback,4,1,2,0
+100475,40-55,female,majority,0-9y,university,upper class,after 2015,40056,14947,coupe,4,1,0,1
+100476,65+,male,majority,0-9y,university,upper class,before 2015,32765,11738,SUV,3,0,1,0
+100477,56-64,female,minority,30+ years,none,poverty,after 2015,40056,6577,coupe,1,1,2,0
+100478,16-25,male,minority,30+ years,diploma,upper class,after 2015,32765,14488,sedan,1,0,1,1
+100479,65+,male,majority,0-9y,none,working class,after 2015,40056,16966,coupe,0,1,0,0
+100480,65+,male,minority,0-9y,none,middle class,after 2015,40056,7220,hatchback,0,1,2,1
+100481,16-25,female,majority,0-9y,none,working class,before 2015,60124,14164,sedan,3,1,2,0
+100482,56-64,female,majority,0-9y,university,poverty,after 2015,40056,6030,sedan,2,1,0,1
+100483,26-39,male,majority,10-19y,none,poverty,before 2015,50078,15785,sedan,2,0,2,0
+100484,65+,male,minority,0-9y,none,upper class,after 2015,40056,11691,hatchback,2,1,0,0
+100485,16-25,female,minority,30+ years,diploma,working class,before 2015,32765,8992,SUV,1,0,2,1
+100486,40-55,male,majority,20-29y,diploma,working class,before 2015,40056,17805,coupe,1,1,2,0
+100487,16-25,male,majority,10-19y,none,poverty,after 2015,10238,5913,sedan,4,1,0,0
+100488,40-55,female,majority,0-9y,diploma,working class,after 2015,45001,11358,sedan,1,1,0,0
+100489,56-64,male,majority,20-29y,diploma,poverty,before 2015,32765,7181,sedan,1,0,2,0
+100490,26-39,female,majority,10-19y,none,working class,after 2015,10238,19620,SUV,1,1,2,0
+100491,16-25,male,minority,20-29y,university,working class,after 2015,32765,8197,SUV,3,1,0,1
+100492,65+,female,majority,0-9y,none,working class,after 2015,50078,11040,hatchback,1,1,0,0
+100493,56-64,male,minority,0-9y,diploma,poverty,before 2015,45001,6462,SUV,0,1,2,0
+100494,16-25,male,majority,30+ years,university,upper class,after 2015,45001,19160,coupe,0,1,2,1
+100495,65+,female,minority,0-9y,high school,working class,after 2015,50078,15570,hatchback,4,0,2,1
+100496,16-25,male,minority,0-9y,university,poverty,after 2015,45001,16646,hatchback,3,0,0,1
+100497,40-55,female,minority,10-19y,diploma,poverty,before 2015,50078,12037,coupe,0,1,2,0
+100498,16-25,male,minority,30+ years,university,working class,after 2015,10238,16745,coupe,3,1,1,0
+100499,16-25,female,minority,10-19y,none,working class,before 2015,60124,14499,coupe,3,0,0,0
+100500,16-25,female,minority,20-29y,high school,upper class,after 2015,32765,9994,hatchback,4,1,2,0
+100501,56-64,female,majority,0-9y,high school,poverty,before 2015,50078,18386,hatchback,3,0,0,1
+100502,16-25,female,minority,20-29y,high school,poverty,after 2015,32765,14381,hatchback,1,1,1,1
+100503,65+,male,majority,10-19y,diploma,middle class,after 2015,10238,10308,coupe,3,1,0,0
+100504,40-55,male,minority,0-9y,diploma,poverty,before 2015,60124,11221,coupe,4,0,2,0
+100505,40-55,female,minority,0-9y,high school,upper class,before 2015,10238,12090,sedan,4,1,1,0
+100506,16-25,female,majority,10-19y,university,middle class,before 2015,45001,12769,SUV,4,0,1,0
+100507,56-64,female,minority,10-19y,high school,middle class,after 2015,32765,5687,sedan,0,0,2,1
+100508,56-64,male,majority,10-19y,university,middle class,after 2015,30211,19356,coupe,1,0,2,1
+100509,65+,male,majority,10-19y,university,working class,after 2015,60124,9661,hatchback,0,1,2,0
+100510,16-25,male,majority,10-19y,diploma,working class,after 2015,45001,14399,coupe,2,0,0,1
+100511,40-55,male,majority,0-9y,university,poverty,before 2015,60124,6894,SUV,1,0,0,0
+100512,56-64,female,minority,10-19y,high school,middle class,after 2015,45001,12389,sedan,3,1,0,0
+100513,16-25,female,minority,0-9y,diploma,upper class,after 2015,10238,9922,sedan,4,1,2,1
+100514,56-64,female,majority,0-9y,none,working class,after 2015,50078,18639,hatchback,2,1,2,0
+100515,56-64,male,minority,10-19y,none,upper class,after 2015,32765,11322,sedan,1,1,0,1
+100516,40-55,male,minority,10-19y,diploma,upper class,after 2015,40056,15003,sedan,0,1,1,0
+100517,26-39,male,majority,30+ years,high school,working class,after 2015,40056,8183,coupe,4,1,0,1
+100518,65+,female,minority,0-9y,none,working class,after 2015,10238,8797,sedan,0,0,1,0
+100519,65+,female,majority,10-19y,none,working class,before 2015,32765,10178,sedan,1,1,2,1
+100520,40-55,male,majority,10-19y,university,working class,after 2015,32765,18638,sedan,1,0,2,0
+100521,56-64,female,minority,10-19y,university,middle class,after 2015,10238,14836,hatchback,2,1,0,0
+100522,16-25,male,minority,30+ years,high school,middle class,after 2015,32765,8968,hatchback,3,0,0,1
+100523,56-64,male,minority,30+ years,diploma,middle class,after 2015,50078,7716,coupe,0,0,2,0
+100524,40-55,female,majority,20-29y,high school,middle class,before 2015,10238,5190,sedan,2,1,0,1
+100525,65+,male,majority,0-9y,diploma,poverty,before 2015,50078,18511,hatchback,4,1,2,1
+100526,56-64,female,minority,20-29y,none,middle class,before 2015,32765,6335,hatchback,3,0,2,0
+100527,65+,male,minority,10-19y,university,working class,before 2015,10238,13181,coupe,2,1,1,0
+100528,16-25,female,minority,30+ years,high school,upper class,before 2015,32765,17995,SUV,0,1,0,0
+100529,65+,female,minority,30+ years,high school,middle class,before 2015,10238,16298,sedan,1,0,2,0
+100530,65+,female,majority,20-29y,diploma,poverty,after 2015,32765,5378,hatchback,4,0,0,1
+100531,26-39,male,minority,30+ years,diploma,working class,before 2015,50078,17674,coupe,0,0,1,0
+100532,26-39,male,majority,10-19y,high school,upper class,before 2015,30211,8829,coupe,3,1,1,0
+100533,26-39,female,majority,30+ years,diploma,upper class,after 2015,50078,11380,coupe,3,1,0,0
+100534,65+,female,minority,20-29y,high school,middle class,before 2015,32765,5615,hatchback,1,1,0,1
+100535,40-55,male,minority,10-19y,high school,upper class,after 2015,10238,18830,sedan,1,1,2,0
+100536,65+,male,minority,20-29y,high school,middle class,after 2015,40056,7330,SUV,4,0,1,1
+100537,40-55,male,majority,30+ years,none,middle class,before 2015,50078,19336,sedan,4,1,1,0
+100538,40-55,female,minority,20-29y,diploma,working class,after 2015,50078,6754,coupe,1,0,1,1
+100539,26-39,male,minority,20-29y,university,working class,before 2015,45001,5463,coupe,1,1,0,0
+100540,56-64,male,majority,0-9y,university,poverty,before 2015,40056,14158,SUV,3,1,2,0
+100541,16-25,female,minority,30+ years,diploma,working class,after 2015,32765,9267,sedan,1,0,0,1
+100542,26-39,male,majority,30+ years,high school,working class,after 2015,30211,8158,coupe,2,1,0,0
+100543,26-39,male,minority,20-29y,university,middle class,before 2015,10238,8624,coupe,0,1,0,0
+100544,56-64,male,majority,0-9y,university,working class,after 2015,45001,18434,sedan,1,0,2,0
+100545,16-25,female,minority,30+ years,diploma,middle class,after 2015,32765,9938,coupe,4,1,0,1
+100546,65+,female,minority,10-19y,university,middle class,before 2015,60124,10417,sedan,2,0,1,0
+100547,65+,female,majority,20-29y,high school,working class,before 2015,30211,11004,coupe,4,0,1,1
+100548,26-39,female,majority,30+ years,diploma,poverty,after 2015,50078,13881,sedan,2,0,1,1
+100549,16-25,female,minority,10-19y,high school,poverty,before 2015,60124,15814,SUV,1,0,2,1
+100550,26-39,female,majority,30+ years,university,upper class,before 2015,50078,10603,coupe,0,1,0,0
+100551,40-55,female,majority,10-19y,university,upper class,before 2015,50078,7212,SUV,4,1,2,1
+100552,26-39,male,majority,20-29y,high school,working class,before 2015,60124,11120,coupe,2,1,0,1
+100553,26-39,male,majority,30+ years,none,poverty,before 2015,30211,10818,coupe,3,0,1,0
+100554,65+,female,minority,30+ years,university,middle class,before 2015,60124,5382,hatchback,1,1,0,1
+100555,65+,male,minority,0-9y,none,upper class,before 2015,32765,7256,sedan,0,1,0,1
+100556,65+,male,majority,20-29y,university,middle class,after 2015,45001,17002,SUV,1,1,0,0
+100557,40-55,female,majority,10-19y,none,upper class,before 2015,45001,16695,SUV,3,1,2,0
+100558,65+,male,majority,30+ years,none,working class,after 2015,60124,6412,SUV,0,0,0,1
+100559,16-25,male,majority,30+ years,none,poverty,after 2015,32765,14775,sedan,3,0,0,0
+100560,56-64,male,minority,10-19y,high school,upper class,after 2015,45001,19559,hatchback,1,1,0,0
+100561,16-25,male,minority,20-29y,none,poverty,before 2015,32765,11146,SUV,2,0,2,0
+100562,16-25,male,majority,0-9y,none,middle class,before 2015,32765,5371,sedan,1,1,2,1
+100563,65+,female,majority,0-9y,none,working class,after 2015,50078,10806,coupe,1,1,2,1
+100564,56-64,female,majority,30+ years,university,poverty,before 2015,45001,10565,SUV,1,1,0,0
+100565,56-64,female,minority,10-19y,none,working class,after 2015,45001,13802,SUV,4,0,1,1
+100566,56-64,male,majority,30+ years,university,poverty,before 2015,50078,13307,hatchback,3,1,1,0
+100567,40-55,female,minority,10-19y,none,middle class,before 2015,60124,12437,SUV,3,0,1,0
+100568,65+,male,majority,0-9y,none,middle class,after 2015,50078,5446,SUV,3,0,0,0
+100569,56-64,male,minority,20-29y,high school,working class,after 2015,45001,6391,coupe,4,1,1,0
+100570,40-55,male,majority,10-19y,university,middle class,after 2015,45001,16516,sedan,2,0,1,0
+100571,26-39,male,minority,0-9y,none,upper class,before 2015,30211,6340,sedan,1,0,1,1
+100572,26-39,female,majority,30+ years,university,poverty,after 2015,60124,17702,hatchback,2,1,0,1
+100573,40-55,female,majority,10-19y,university,middle class,before 2015,50078,19096,coupe,4,0,1,1
+100574,40-55,male,majority,20-29y,diploma,upper class,before 2015,10238,7939,sedan,3,0,1,1
+100575,65+,female,minority,30+ years,high school,working class,before 2015,10238,18335,coupe,1,1,0,0
+100576,65+,male,majority,30+ years,high school,upper class,after 2015,60124,16891,sedan,0,1,2,0
+100577,26-39,female,minority,0-9y,high school,working class,after 2015,50078,19998,coupe,0,0,1,1
+100578,56-64,female,minority,10-19y,diploma,working class,after 2015,50078,10969,hatchback,2,1,2,1
+100579,26-39,male,majority,30+ years,diploma,poverty,before 2015,32765,14265,SUV,3,1,1,0
+100580,56-64,female,majority,20-29y,high school,poverty,before 2015,45001,9813,hatchback,0,0,0,0
+100581,56-64,male,majority,10-19y,diploma,upper class,after 2015,40056,8569,sedan,2,0,2,0
+100582,65+,female,minority,20-29y,diploma,poverty,before 2015,30211,10454,hatchback,4,1,2,1
+100583,16-25,male,majority,30+ years,diploma,poverty,before 2015,60124,8150,SUV,2,0,2,0
+100584,16-25,male,minority,20-29y,high school,poverty,after 2015,40056,14797,hatchback,2,1,2,0
+100585,40-55,female,minority,0-9y,high school,upper class,after 2015,40056,11414,sedan,2,1,1,1
+100586,65+,female,majority,20-29y,high school,middle class,after 2015,60124,9657,sedan,1,0,1,1
+100587,56-64,male,majority,10-19y,diploma,poverty,before 2015,50078,11947,hatchback,2,0,2,1
+100588,16-25,female,majority,20-29y,high school,poverty,before 2015,60124,15486,SUV,2,1,1,0
+100589,56-64,female,majority,20-29y,diploma,upper class,before 2015,40056,12943,hatchback,1,1,2,0
+100590,16-25,male,majority,0-9y,none,middle class,before 2015,45001,8662,SUV,1,1,2,1
+100591,16-25,male,majority,20-29y,diploma,poverty,before 2015,30211,9482,coupe,4,1,0,0
+100592,16-25,female,minority,20-29y,university,working class,after 2015,30211,9797,SUV,3,0,2,0
+100593,65+,male,minority,30+ years,high school,upper class,before 2015,45001,19894,coupe,0,1,1,0
+100594,26-39,male,minority,30+ years,high school,poverty,before 2015,45001,10068,hatchback,0,0,2,1
+100595,56-64,male,majority,10-19y,university,poverty,before 2015,50078,10480,SUV,2,0,0,1
+100596,65+,female,minority,30+ years,diploma,working class,after 2015,10238,13033,coupe,4,1,1,0
+100597,65+,female,minority,30+ years,none,working class,after 2015,60124,5983,coupe,2,0,0,0
+100598,65+,male,minority,30+ years,university,upper class,after 2015,30211,10607,coupe,0,0,0,0
+100599,65+,female,minority,30+ years,university,upper class,before 2015,45001,13543,sedan,1,1,2,0
+100600,65+,male,minority,0-9y,diploma,working class,after 2015,60124,14916,hatchback,3,0,0,1
+100601,40-55,female,majority,30+ years,high school,upper class,after 2015,30211,15143,coupe,4,0,0,1
+100602,56-64,male,majority,0-9y,diploma,working class,after 2015,45001,14471,SUV,1,1,1,0
+100603,65+,male,minority,0-9y,university,poverty,before 2015,30211,6907,coupe,3,1,0,0
+100604,56-64,female,minority,30+ years,university,working class,after 2015,50078,18040,sedan,4,1,2,1
+100605,40-55,male,minority,20-29y,high school,working class,before 2015,10238,11924,hatchback,4,1,2,0
+100606,40-55,female,majority,0-9y,high school,middle class,before 2015,10238,14216,sedan,0,1,2,1
+100607,56-64,female,majority,20-29y,high school,working class,after 2015,45001,13737,sedan,1,1,0,0
+100608,16-25,male,minority,20-29y,diploma,working class,before 2015,30211,18757,sedan,4,1,1,1
+100609,26-39,male,majority,30+ years,high school,middle class,after 2015,50078,9174,SUV,4,0,2,0
+100610,16-25,female,majority,10-19y,university,upper class,before 2015,32765,18547,hatchback,3,0,0,0
+100611,16-25,male,minority,30+ years,university,middle class,after 2015,60124,15573,hatchback,0,1,2,1
+100612,16-25,male,majority,10-19y,none,poverty,after 2015,60124,14080,SUV,2,0,2,1
+100613,65+,male,majority,10-19y,diploma,middle class,after 2015,40056,12265,hatchback,0,0,1,0
+100614,40-55,male,minority,30+ years,none,poverty,before 2015,50078,14297,sedan,2,1,2,0
+100615,16-25,male,majority,30+ years,university,upper class,after 2015,30211,15741,hatchback,1,0,1,1
+100616,40-55,female,majority,10-19y,none,middle class,before 2015,40056,6990,SUV,1,1,0,1
+100617,56-64,female,minority,30+ years,university,middle class,after 2015,45001,10596,sedan,4,0,2,0
+100618,26-39,male,majority,10-19y,none,upper class,before 2015,30211,8998,SUV,1,1,0,0
+100619,56-64,male,majority,20-29y,high school,poverty,before 2015,40056,8775,coupe,4,0,0,1
+100620,56-64,male,minority,30+ years,none,middle class,after 2015,10238,16004,sedan,0,0,0,1
+100621,65+,female,minority,20-29y,high school,poverty,after 2015,60124,14112,sedan,1,0,2,1
+100622,26-39,male,minority,0-9y,high school,middle class,after 2015,30211,9645,hatchback,0,1,1,1
+100623,56-64,female,majority,20-29y,diploma,working class,after 2015,40056,7061,sedan,0,0,2,1
+100624,56-64,female,minority,20-29y,high school,middle class,after 2015,10238,9487,SUV,1,0,0,0
+100625,26-39,female,majority,10-19y,high school,upper class,before 2015,50078,19645,hatchback,0,1,1,0
+100626,26-39,male,minority,20-29y,none,upper class,after 2015,40056,19721,coupe,1,1,0,1
+100627,56-64,female,majority,30+ years,university,poverty,after 2015,45001,18668,SUV,1,0,1,0
+100628,26-39,male,minority,10-19y,diploma,middle class,before 2015,45001,18261,coupe,1,0,2,0
+100629,56-64,female,minority,0-9y,high school,poverty,after 2015,45001,16831,coupe,2,0,1,1
+100630,56-64,male,minority,30+ years,diploma,poverty,after 2015,30211,16357,coupe,0,0,2,0
+100631,65+,female,minority,0-9y,none,working class,before 2015,60124,9435,sedan,3,1,0,0
+100632,16-25,male,majority,20-29y,high school,working class,after 2015,40056,7644,SUV,1,0,1,0
+100633,56-64,female,minority,30+ years,none,upper class,after 2015,50078,18044,SUV,0,0,0,1
+100634,40-55,male,minority,30+ years,diploma,poverty,after 2015,40056,6045,sedan,4,1,1,1
+100635,16-25,male,majority,0-9y,none,upper class,before 2015,60124,19626,hatchback,1,0,2,0
+100636,16-25,male,minority,30+ years,diploma,middle class,after 2015,10238,16748,coupe,1,0,1,0
+100637,16-25,male,majority,30+ years,none,poverty,before 2015,60124,12951,SUV,3,0,1,0
+100638,65+,female,minority,30+ years,diploma,poverty,after 2015,45001,11449,sedan,2,1,2,0
+100639,56-64,female,minority,20-29y,university,middle class,before 2015,30211,7681,coupe,2,1,2,0
+100640,65+,male,minority,0-9y,none,middle class,after 2015,10238,8199,hatchback,1,0,2,0
+100641,56-64,female,majority,30+ years,none,upper class,before 2015,30211,11768,hatchback,0,0,1,1
+100642,65+,male,minority,10-19y,university,upper class,before 2015,45001,14130,coupe,4,1,0,0
+100643,65+,male,minority,10-19y,university,middle class,before 2015,32765,12440,hatchback,4,0,1,0
+100644,40-55,female,minority,10-19y,none,upper class,before 2015,60124,18135,SUV,0,0,1,1
+100645,65+,male,majority,10-19y,university,middle class,before 2015,60124,13633,SUV,1,1,0,0
+100646,26-39,male,majority,20-29y,high school,poverty,before 2015,50078,7550,SUV,4,1,2,0
+100647,40-55,female,minority,30+ years,diploma,poverty,after 2015,40056,9225,hatchback,2,1,1,0
+100648,65+,male,majority,0-9y,diploma,working class,after 2015,10238,5596,SUV,0,0,0,0
+100649,16-25,male,minority,30+ years,diploma,poverty,before 2015,30211,11054,sedan,3,0,2,1
+100650,26-39,male,minority,20-29y,high school,middle class,before 2015,10238,6505,SUV,1,0,2,0
+100651,26-39,male,minority,10-19y,university,upper class,before 2015,50078,14053,SUV,0,0,1,1
+100652,26-39,female,minority,20-29y,university,working class,before 2015,50078,15832,hatchback,4,1,2,0
+100653,40-55,female,minority,30+ years,none,upper class,after 2015,30211,18286,SUV,1,0,2,0
+100654,65+,female,minority,0-9y,university,middle class,before 2015,40056,11468,coupe,2,0,0,1
+100655,65+,male,minority,20-29y,none,poverty,after 2015,30211,12236,sedan,1,1,0,0
+100656,16-25,male,majority,0-9y,high school,working class,after 2015,30211,16923,hatchback,1,1,2,1
+100657,16-25,female,majority,20-29y,diploma,middle class,before 2015,45001,19783,sedan,2,0,0,1
+100658,26-39,male,majority,0-9y,diploma,working class,before 2015,40056,6551,coupe,2,1,2,1
+100659,16-25,male,majority,0-9y,diploma,working class,after 2015,60124,18928,hatchback,1,1,1,0
+100660,40-55,male,majority,10-19y,university,poverty,after 2015,45001,16428,hatchback,2,0,0,0
+100661,65+,male,majority,0-9y,none,middle class,before 2015,32765,18799,SUV,0,0,2,0
+100662,26-39,female,majority,10-19y,none,upper class,before 2015,40056,14928,sedan,2,0,2,0
+100663,16-25,female,minority,30+ years,high school,working class,before 2015,50078,11852,coupe,2,0,0,1
+100664,40-55,female,minority,30+ years,university,working class,after 2015,45001,6449,coupe,1,1,0,0
+100665,40-55,male,minority,10-19y,high school,upper class,after 2015,40056,10953,hatchback,0,1,1,0
+100666,16-25,female,minority,10-19y,none,middle class,before 2015,10238,13456,SUV,3,0,2,1
+100667,65+,female,majority,20-29y,none,working class,after 2015,30211,13042,hatchback,3,0,1,1
+100668,16-25,male,majority,20-29y,diploma,working class,after 2015,32765,7659,hatchback,4,1,1,0
+100669,26-39,male,minority,20-29y,university,working class,before 2015,60124,12509,hatchback,2,0,1,1
+100670,16-25,female,minority,30+ years,none,middle class,before 2015,30211,12893,hatchback,2,0,0,1
+100671,40-55,female,majority,20-29y,diploma,middle class,after 2015,10238,12445,coupe,0,0,1,1
+100672,16-25,female,minority,0-9y,university,upper class,after 2015,10238,7721,coupe,3,0,0,1
+100673,65+,female,minority,0-9y,high school,middle class,before 2015,32765,14654,hatchback,4,1,0,1
+100674,56-64,male,minority,20-29y,university,middle class,before 2015,60124,17444,hatchback,0,0,1,0
+100675,16-25,female,minority,0-9y,university,poverty,before 2015,50078,14637,SUV,2,1,1,0
+100676,65+,female,majority,30+ years,none,upper class,before 2015,45001,15490,hatchback,3,0,2,0
+100677,65+,male,minority,0-9y,none,working class,before 2015,60124,7925,coupe,4,0,1,0
+100678,40-55,female,minority,30+ years,university,middle class,after 2015,40056,14824,sedan,1,1,2,0
+100679,65+,male,majority,10-19y,none,working class,after 2015,10238,19865,coupe,3,0,1,0
+100680,65+,male,majority,10-19y,none,working class,after 2015,40056,15566,SUV,4,1,1,0
+100681,65+,male,minority,10-19y,none,poverty,after 2015,50078,12104,coupe,0,0,1,1
+100682,65+,female,majority,10-19y,diploma,middle class,before 2015,40056,18182,sedan,1,0,1,0
+100683,26-39,female,minority,0-9y,diploma,upper class,before 2015,60124,11240,hatchback,4,0,2,0
+100684,26-39,male,minority,20-29y,university,middle class,before 2015,40056,5512,sedan,4,0,2,0
+100685,40-55,female,majority,0-9y,none,working class,after 2015,50078,5215,hatchback,2,0,1,1
+100686,16-25,female,minority,30+ years,diploma,upper class,after 2015,50078,12299,hatchback,3,1,1,0
+100687,65+,male,minority,0-9y,university,middle class,after 2015,50078,16523,coupe,2,1,2,0
+100688,16-25,male,minority,0-9y,none,working class,before 2015,60124,15364,coupe,1,0,0,1
+100689,16-25,female,minority,30+ years,high school,working class,after 2015,50078,8153,coupe,4,0,0,0
+100690,40-55,male,majority,10-19y,none,poverty,before 2015,10238,12450,SUV,2,1,0,0
+100691,65+,female,majority,10-19y,none,poverty,before 2015,30211,6706,coupe,3,1,2,1
+100692,65+,female,minority,10-19y,diploma,poverty,before 2015,50078,15298,SUV,1,0,2,0
+100693,56-64,female,majority,20-29y,university,working class,before 2015,40056,6567,coupe,0,0,0,1
+100694,16-25,female,minority,30+ years,university,middle class,before 2015,45001,15400,hatchback,2,1,0,0
+100695,16-25,male,minority,30+ years,diploma,poverty,before 2015,40056,15523,SUV,1,0,1,0
+100696,26-39,male,minority,0-9y,none,middle class,after 2015,45001,15345,sedan,0,1,2,0
+100697,56-64,male,minority,20-29y,high school,poverty,before 2015,40056,6128,SUV,2,0,2,1
+100698,26-39,male,minority,10-19y,none,upper class,before 2015,60124,8510,SUV,1,1,0,1
+100699,26-39,female,majority,20-29y,none,upper class,after 2015,40056,17515,sedan,1,1,0,1
+100700,26-39,female,minority,30+ years,high school,poverty,before 2015,60124,12867,SUV,2,0,2,0
+100701,40-55,male,majority,30+ years,diploma,working class,after 2015,60124,16845,hatchback,1,1,1,0
+100702,40-55,female,majority,0-9y,university,poverty,after 2015,50078,7365,coupe,4,0,0,1
+100703,26-39,female,minority,0-9y,diploma,poverty,after 2015,10238,10583,sedan,2,0,2,1
+100704,56-64,female,minority,30+ years,diploma,working class,before 2015,45001,9897,coupe,1,0,2,0
+100705,16-25,male,minority,10-19y,none,upper class,before 2015,50078,10718,hatchback,0,0,1,0
+100706,56-64,male,minority,10-19y,university,middle class,after 2015,50078,11001,sedan,0,1,1,0
+100707,65+,male,minority,20-29y,university,poverty,before 2015,30211,16113,coupe,4,0,0,0
+100708,40-55,female,majority,30+ years,diploma,working class,before 2015,60124,9567,coupe,2,0,0,1
+100709,16-25,male,minority,30+ years,high school,poverty,after 2015,60124,14271,hatchback,1,0,0,0
+100710,16-25,male,minority,10-19y,diploma,working class,after 2015,45001,19960,coupe,1,0,2,0
+100711,65+,male,majority,10-19y,high school,middle class,before 2015,40056,19348,hatchback,0,1,0,0
+100712,65+,male,majority,30+ years,university,middle class,after 2015,40056,16703,SUV,4,0,2,0
+100713,26-39,male,minority,0-9y,diploma,upper class,after 2015,50078,18329,hatchback,0,1,0,0
+100714,40-55,male,majority,30+ years,none,working class,after 2015,32765,7741,SUV,0,1,1,0
+100715,40-55,female,minority,30+ years,diploma,working class,before 2015,32765,8020,sedan,4,1,1,0
+100716,56-64,female,majority,10-19y,university,upper class,before 2015,40056,11256,coupe,2,0,2,1
+100717,26-39,male,majority,10-19y,none,upper class,before 2015,32765,5228,hatchback,1,0,1,1
+100718,26-39,male,minority,0-9y,none,working class,after 2015,30211,13362,hatchback,2,0,2,1
+100719,26-39,female,majority,0-9y,high school,upper class,before 2015,40056,5294,coupe,3,0,2,0
+100720,26-39,female,majority,20-29y,none,middle class,after 2015,60124,9284,coupe,3,1,1,1
+100721,40-55,male,majority,30+ years,none,poverty,before 2015,50078,13617,sedan,3,1,2,0
+100722,40-55,male,majority,10-19y,diploma,middle class,before 2015,10238,18264,sedan,4,0,1,0
+100723,26-39,male,majority,0-9y,university,upper class,after 2015,50078,18390,hatchback,0,0,0,0
+100724,56-64,male,majority,20-29y,high school,working class,before 2015,40056,11801,sedan,2,0,0,0
+100725,16-25,female,minority,20-29y,diploma,working class,after 2015,30211,5918,SUV,1,0,1,1
+100726,16-25,male,minority,10-19y,none,middle class,before 2015,40056,16445,sedan,3,0,1,0
+100727,56-64,male,majority,10-19y,none,working class,before 2015,50078,5498,sedan,2,0,1,0
+100728,26-39,male,minority,20-29y,high school,upper class,after 2015,30211,19109,hatchback,3,0,1,1
+100729,40-55,male,minority,0-9y,university,middle class,after 2015,30211,7809,SUV,3,1,0,1
+100730,16-25,female,minority,20-29y,high school,working class,after 2015,30211,9961,sedan,1,1,2,1
+100731,65+,female,majority,30+ years,diploma,poverty,before 2015,45001,14017,SUV,4,1,2,0
+100732,65+,female,minority,30+ years,high school,poverty,before 2015,40056,8779,SUV,0,1,0,1
+100733,56-64,male,majority,10-19y,none,upper class,before 2015,32765,15050,SUV,4,0,2,0
+100734,26-39,male,minority,0-9y,diploma,working class,after 2015,32765,7118,coupe,2,0,0,0
+100735,16-25,female,majority,0-9y,none,upper class,after 2015,40056,11391,coupe,4,0,2,1
+100736,26-39,male,majority,30+ years,university,middle class,after 2015,40056,5145,coupe,2,0,1,1
+100737,16-25,male,minority,20-29y,none,poverty,before 2015,45001,18929,coupe,2,0,1,1
+100738,56-64,female,minority,10-19y,none,middle class,before 2015,32765,12942,hatchback,0,1,1,0
+100739,56-64,female,majority,20-29y,high school,working class,after 2015,40056,18607,sedan,1,0,0,0
+100740,65+,female,minority,20-29y,none,upper class,before 2015,40056,19917,coupe,0,1,0,0
+100741,26-39,female,minority,20-29y,diploma,upper class,after 2015,45001,9565,hatchback,4,0,2,0
+100742,65+,male,minority,0-9y,diploma,upper class,before 2015,45001,16769,sedan,2,1,2,0
+100743,26-39,male,majority,30+ years,university,middle class,before 2015,50078,5192,coupe,3,0,2,0
+100744,65+,female,majority,0-9y,diploma,poverty,after 2015,45001,10187,sedan,3,1,0,1
+100745,40-55,male,minority,30+ years,high school,middle class,before 2015,10238,11637,coupe,2,0,2,0
+100746,40-55,female,minority,10-19y,university,middle class,before 2015,32765,17080,hatchback,0,0,1,1
+100747,40-55,female,minority,10-19y,diploma,working class,after 2015,50078,13243,SUV,1,0,2,1
+100748,40-55,male,majority,20-29y,high school,working class,after 2015,10238,7410,SUV,0,0,1,1
+100749,16-25,female,majority,30+ years,diploma,working class,before 2015,40056,6820,sedan,2,1,0,1
+100750,40-55,male,minority,30+ years,diploma,poverty,after 2015,40056,7964,hatchback,2,0,1,1
+100751,56-64,male,minority,30+ years,none,poverty,before 2015,50078,7521,SUV,1,1,1,0
+100752,56-64,male,minority,20-29y,diploma,working class,after 2015,45001,15061,coupe,4,0,1,0
+100753,16-25,male,minority,20-29y,diploma,working class,before 2015,30211,7568,SUV,4,1,0,0
+100754,40-55,female,minority,10-19y,high school,poverty,before 2015,30211,10882,sedan,1,0,0,0
+100755,40-55,male,minority,0-9y,high school,upper class,after 2015,40056,18742,sedan,4,0,0,1
+100756,40-55,female,majority,30+ years,none,poverty,before 2015,30211,6867,hatchback,3,1,0,1
+100757,65+,female,minority,30+ years,diploma,poverty,before 2015,60124,12465,sedan,4,0,2,1
+100758,26-39,female,majority,0-9y,none,poverty,after 2015,50078,12602,SUV,4,0,0,0
+100759,65+,female,minority,30+ years,diploma,working class,after 2015,10238,15930,SUV,4,1,1,0
+100760,26-39,male,minority,20-29y,university,upper class,before 2015,50078,16461,SUV,3,0,0,0
+100761,40-55,male,majority,20-29y,university,poverty,after 2015,32765,8199,SUV,4,1,2,0
+100762,40-55,female,majority,30+ years,none,working class,after 2015,45001,15771,hatchback,3,0,2,1
+100763,65+,female,majority,20-29y,none,middle class,before 2015,45001,11103,coupe,1,1,2,1
+100764,65+,male,majority,20-29y,none,middle class,before 2015,50078,18722,coupe,0,1,1,0
+100765,26-39,female,minority,30+ years,high school,poverty,after 2015,40056,17197,hatchback,1,1,0,0
+100766,56-64,male,majority,10-19y,high school,middle class,after 2015,40056,18127,sedan,0,1,0,1
+100767,26-39,female,minority,0-9y,high school,upper class,after 2015,60124,5240,coupe,1,0,0,1
+100768,65+,male,majority,20-29y,none,middle class,before 2015,60124,8440,sedan,0,0,1,1
+100769,65+,female,minority,10-19y,diploma,middle class,before 2015,45001,9631,coupe,0,1,1,1
+100770,16-25,female,minority,20-29y,university,upper class,before 2015,60124,14599,sedan,2,0,2,0
+100771,65+,male,minority,20-29y,none,poverty,before 2015,10238,16694,hatchback,0,0,2,1
+100772,16-25,female,minority,0-9y,high school,poverty,before 2015,60124,17230,SUV,0,0,0,1
+100773,56-64,female,minority,20-29y,high school,upper class,before 2015,10238,13274,sedan,2,1,1,1
+100774,26-39,male,minority,0-9y,none,upper class,before 2015,60124,10077,SUV,4,0,1,1
+100775,26-39,female,majority,0-9y,none,upper class,after 2015,45001,8768,sedan,4,0,0,0
+100776,16-25,male,minority,0-9y,high school,middle class,after 2015,45001,14142,sedan,2,1,0,0
+100777,26-39,male,majority,10-19y,diploma,upper class,before 2015,10238,12995,sedan,3,0,2,0
+100778,65+,female,majority,30+ years,high school,working class,before 2015,50078,13802,sedan,0,1,2,0
+100779,40-55,female,minority,10-19y,high school,middle class,before 2015,45001,17861,sedan,0,1,2,0
+100780,16-25,female,majority,30+ years,none,poverty,after 2015,50078,11429,SUV,2,1,0,0
+100781,26-39,female,minority,30+ years,diploma,poverty,before 2015,40056,18276,sedan,2,0,0,1
+100782,16-25,female,majority,0-9y,high school,poverty,after 2015,10238,8605,SUV,3,0,2,1
+100783,16-25,female,minority,20-29y,high school,middle class,after 2015,30211,17746,hatchback,4,1,2,1
+100784,40-55,female,majority,0-9y,university,working class,after 2015,45001,16475,coupe,1,1,1,1
+100785,65+,male,minority,20-29y,none,upper class,after 2015,32765,7173,sedan,4,1,1,0
+100786,16-25,female,minority,30+ years,university,upper class,after 2015,40056,16676,coupe,0,1,2,1
+100787,26-39,male,minority,0-9y,university,poverty,before 2015,50078,14714,SUV,2,1,2,0
+100788,56-64,female,minority,20-29y,high school,poverty,before 2015,45001,11568,hatchback,3,1,1,1
+100789,16-25,female,majority,10-19y,none,middle class,after 2015,10238,7601,hatchback,4,0,2,1
+100790,16-25,male,minority,20-29y,diploma,working class,before 2015,30211,7657,hatchback,3,1,1,1
+100791,40-55,female,majority,0-9y,high school,upper class,after 2015,60124,11080,coupe,4,1,1,0
+100792,65+,female,majority,10-19y,diploma,middle class,after 2015,30211,18854,SUV,0,1,1,1
+100793,56-64,male,majority,20-29y,diploma,upper class,before 2015,32765,12325,sedan,1,0,0,0
+100794,26-39,female,minority,20-29y,none,poverty,before 2015,50078,7159,sedan,3,0,0,0
+100795,56-64,female,majority,20-29y,university,upper class,before 2015,40056,15641,SUV,3,0,2,1
+100796,26-39,female,majority,20-29y,none,working class,before 2015,30211,8830,coupe,1,0,1,0
+100797,65+,male,majority,20-29y,diploma,working class,before 2015,10238,13313,sedan,3,1,0,0
+100798,26-39,female,minority,10-19y,high school,poverty,after 2015,32765,9368,SUV,3,0,2,1
+100799,40-55,female,minority,30+ years,diploma,working class,before 2015,10238,6317,sedan,4,1,2,1
+100800,40-55,female,majority,10-19y,high school,working class,before 2015,45001,9493,hatchback,4,1,2,1
+100801,40-55,female,minority,10-19y,high school,middle class,before 2015,60124,15710,sedan,1,1,2,1
+100802,40-55,male,minority,10-19y,none,upper class,after 2015,40056,18272,coupe,0,1,2,1
+100803,56-64,male,majority,30+ years,diploma,poverty,before 2015,10238,6230,SUV,3,1,1,1
+100804,65+,female,majority,0-9y,university,poverty,after 2015,50078,6133,coupe,0,1,2,0
+100805,26-39,female,minority,30+ years,diploma,poverty,before 2015,45001,12607,SUV,1,0,1,1
+100806,26-39,male,majority,10-19y,diploma,poverty,before 2015,45001,6301,hatchback,1,0,0,1
+100807,40-55,male,minority,20-29y,university,poverty,after 2015,40056,17226,SUV,4,0,2,0
+100808,40-55,female,minority,20-29y,none,working class,before 2015,45001,6910,sedan,3,0,0,1
+100809,16-25,male,minority,10-19y,diploma,middle class,before 2015,50078,13082,sedan,2,0,1,0
+100810,65+,female,minority,20-29y,diploma,poverty,after 2015,10238,19904,hatchback,1,1,1,1
+100811,56-64,male,minority,10-19y,high school,middle class,before 2015,40056,13107,SUV,3,0,0,1
+100812,26-39,male,minority,20-29y,diploma,middle class,after 2015,45001,14697,hatchback,0,0,2,0
+100813,16-25,male,majority,30+ years,university,working class,after 2015,45001,12970,sedan,4,0,2,1
+100814,16-25,male,majority,0-9y,high school,poverty,after 2015,50078,16377,coupe,0,1,0,0
+100815,26-39,female,minority,0-9y,none,working class,after 2015,60124,6916,hatchback,1,1,0,1
+100816,56-64,male,minority,30+ years,high school,poverty,after 2015,60124,18107,coupe,1,1,0,1
+100817,16-25,male,minority,30+ years,university,working class,before 2015,30211,11996,coupe,0,0,2,0
+100818,16-25,female,majority,10-19y,university,middle class,before 2015,45001,16740,SUV,1,0,2,1
+100819,65+,male,minority,10-19y,high school,poverty,before 2015,10238,7757,hatchback,3,0,2,1
+100820,56-64,male,majority,10-19y,none,upper class,after 2015,40056,15148,coupe,1,0,0,0
+100821,16-25,female,minority,20-29y,high school,middle class,after 2015,45001,11464,coupe,4,0,2,1
+100822,56-64,male,minority,10-19y,none,upper class,after 2015,32765,5178,SUV,3,1,1,0
+100823,26-39,female,majority,30+ years,high school,middle class,after 2015,40056,14088,SUV,2,0,0,1
+100824,40-55,female,majority,0-9y,university,working class,before 2015,30211,11362,sedan,1,1,2,0
+100825,16-25,female,minority,20-29y,diploma,poverty,before 2015,60124,19260,coupe,1,0,0,1
+100826,65+,female,minority,10-19y,diploma,middle class,after 2015,45001,14743,sedan,4,1,1,0
+100827,26-39,male,minority,20-29y,none,working class,after 2015,50078,13683,coupe,4,1,1,0
+100828,56-64,female,majority,20-29y,none,poverty,before 2015,32765,5060,sedan,0,1,0,1
+100829,26-39,male,majority,10-19y,none,poverty,after 2015,45001,14269,SUV,0,1,0,1
+100830,16-25,male,majority,20-29y,university,middle class,after 2015,30211,18991,hatchback,0,0,1,0
+100831,56-64,male,majority,0-9y,high school,poverty,after 2015,10238,11681,SUV,4,0,0,1
+100832,40-55,male,majority,30+ years,university,middle class,before 2015,32765,7895,sedan,0,0,1,0
+100833,26-39,male,majority,30+ years,diploma,poverty,before 2015,30211,17352,sedan,0,1,1,1
+100834,16-25,male,minority,0-9y,none,upper class,after 2015,45001,16875,hatchback,2,0,2,1
+100835,65+,male,minority,20-29y,high school,working class,before 2015,10238,5585,coupe,0,0,0,0
+100836,56-64,male,majority,10-19y,diploma,upper class,after 2015,32765,10823,sedan,1,0,0,0
+100837,26-39,male,minority,20-29y,diploma,middle class,after 2015,10238,19506,sedan,4,0,2,1
+100838,26-39,male,minority,0-9y,diploma,upper class,before 2015,10238,17152,sedan,3,1,1,1
+100839,40-55,female,majority,20-29y,university,middle class,after 2015,32765,16962,hatchback,2,1,0,1
+100840,40-55,female,minority,30+ years,none,poverty,after 2015,32765,5534,SUV,4,0,2,1
+100841,65+,female,majority,20-29y,diploma,poverty,before 2015,10238,8462,sedan,4,0,2,1
+100842,65+,male,majority,0-9y,none,middle class,after 2015,30211,9011,hatchback,1,0,0,0
+100843,16-25,female,minority,30+ years,university,upper class,after 2015,60124,8398,sedan,0,1,2,1
+100844,16-25,female,majority,20-29y,diploma,poverty,after 2015,32765,7155,coupe,1,1,1,1
+100845,65+,female,majority,20-29y,university,working class,before 2015,45001,10966,hatchback,0,1,2,0
+100846,65+,male,majority,30+ years,university,poverty,after 2015,40056,12329,sedan,0,0,1,0
+100847,56-64,male,majority,10-19y,none,working class,before 2015,50078,11957,hatchback,4,1,1,0
+100848,40-55,male,majority,30+ years,diploma,upper class,after 2015,10238,14196,sedan,0,1,0,1
+100849,16-25,male,majority,10-19y,university,working class,after 2015,10238,15691,SUV,2,1,2,0
+100850,40-55,female,majority,0-9y,diploma,working class,after 2015,50078,10325,sedan,2,1,1,0
+100851,40-55,female,majority,0-9y,none,working class,after 2015,60124,19925,hatchback,2,1,1,0
+100852,65+,female,minority,30+ years,university,working class,before 2015,50078,18327,coupe,4,0,2,0
+100853,56-64,female,minority,30+ years,none,poverty,before 2015,32765,13518,coupe,1,0,1,1
+100854,26-39,male,minority,0-9y,diploma,working class,after 2015,50078,9703,coupe,3,0,2,1
+100855,56-64,male,majority,10-19y,diploma,poverty,after 2015,10238,7706,sedan,0,0,0,1
+100856,56-64,male,majority,0-9y,none,working class,after 2015,50078,5001,SUV,3,1,1,0
+100857,40-55,female,minority,30+ years,high school,middle class,after 2015,40056,14225,sedan,1,0,1,0
+100858,56-64,male,minority,0-9y,university,upper class,after 2015,45001,15673,coupe,1,0,2,0
+100859,16-25,male,minority,30+ years,diploma,working class,after 2015,32765,13316,hatchback,4,0,2,0
+100860,40-55,female,majority,30+ years,diploma,middle class,after 2015,50078,6104,coupe,2,1,2,0
+100861,16-25,female,minority,0-9y,university,working class,after 2015,10238,19820,hatchback,2,0,2,0
+100862,26-39,male,minority,10-19y,none,working class,before 2015,30211,15891,SUV,1,1,1,1
+100863,40-55,male,majority,20-29y,none,working class,before 2015,45001,6861,hatchback,4,1,0,1
+100864,26-39,male,minority,0-9y,none,middle class,before 2015,32765,10269,sedan,4,1,0,0
+100865,40-55,male,majority,20-29y,high school,upper class,after 2015,10238,11943,sedan,0,0,0,1
+100866,65+,male,majority,0-9y,high school,middle class,after 2015,60124,16112,sedan,2,1,0,0
+100867,56-64,male,majority,20-29y,diploma,upper class,after 2015,40056,13320,hatchback,1,0,2,0
+100868,65+,female,minority,10-19y,none,working class,before 2015,60124,5437,sedan,3,0,1,1
+100869,26-39,female,minority,10-19y,university,poverty,after 2015,40056,9846,sedan,2,0,1,0
+100870,56-64,female,majority,0-9y,diploma,working class,before 2015,50078,15740,sedan,0,1,1,1
+100871,40-55,male,minority,30+ years,university,upper class,after 2015,32765,8129,SUV,4,1,2,0
+100872,56-64,female,minority,20-29y,diploma,middle class,before 2015,50078,14413,hatchback,1,0,1,0
+100873,16-25,male,minority,30+ years,high school,working class,before 2015,40056,19546,hatchback,2,1,2,1
+100874,56-64,male,minority,30+ years,diploma,middle class,before 2015,40056,13081,coupe,3,1,1,0
+100875,16-25,female,majority,30+ years,high school,middle class,after 2015,40056,5901,hatchback,0,1,0,0
+100876,56-64,male,minority,10-19y,diploma,middle class,before 2015,45001,19380,SUV,0,0,2,0
+100877,16-25,male,majority,0-9y,none,working class,after 2015,10238,16360,hatchback,2,1,1,1
+100878,26-39,female,majority,0-9y,university,middle class,after 2015,32765,10398,SUV,3,1,0,0
+100879,65+,female,minority,10-19y,none,middle class,after 2015,50078,11678,SUV,0,0,0,0
+100880,40-55,female,majority,10-19y,diploma,working class,after 2015,50078,10529,hatchback,1,1,0,0
+100881,56-64,male,minority,0-9y,diploma,middle class,after 2015,60124,11604,coupe,0,0,2,1
+100882,65+,female,minority,30+ years,diploma,working class,before 2015,40056,17678,sedan,3,1,2,1
+100883,40-55,female,majority,20-29y,high school,upper class,after 2015,30211,8918,sedan,4,1,1,1
+100884,40-55,male,majority,20-29y,university,upper class,after 2015,40056,6067,hatchback,4,1,0,1
+100885,16-25,female,majority,20-29y,university,upper class,after 2015,40056,5026,hatchback,2,1,1,1
+100886,26-39,female,majority,30+ years,diploma,middle class,after 2015,30211,11937,SUV,3,1,1,0
+100887,26-39,female,minority,0-9y,diploma,poverty,after 2015,50078,12264,hatchback,0,1,0,1
+100888,65+,male,minority,10-19y,high school,poverty,before 2015,60124,12118,SUV,0,0,1,1
+100889,26-39,male,minority,0-9y,none,middle class,before 2015,10238,5547,coupe,4,1,2,0
+100890,56-64,male,majority,30+ years,none,poverty,after 2015,30211,15860,hatchback,4,1,1,1
+100891,26-39,male,majority,10-19y,university,working class,before 2015,45001,13758,sedan,1,1,0,0
+100892,65+,female,majority,30+ years,high school,poverty,before 2015,32765,13895,sedan,4,0,2,1
+100893,26-39,male,minority,20-29y,diploma,middle class,after 2015,30211,10338,hatchback,1,0,2,0
+100894,56-64,male,majority,20-29y,university,middle class,before 2015,10238,17472,SUV,0,0,1,0
+100895,16-25,female,minority,30+ years,high school,working class,after 2015,50078,8140,sedan,1,1,1,1
+100896,65+,female,majority,10-19y,none,upper class,before 2015,45001,12996,SUV,1,1,2,1
+100897,16-25,female,minority,10-19y,high school,middle class,before 2015,45001,6590,hatchback,2,0,1,0
+100898,16-25,male,minority,0-9y,none,working class,before 2015,45001,19201,hatchback,4,0,0,0
+100899,16-25,male,majority,20-29y,high school,poverty,after 2015,40056,12776,sedan,1,0,1,0
+100900,40-55,male,majority,0-9y,university,poverty,before 2015,32765,9943,hatchback,0,1,1,0
+100901,40-55,female,minority,0-9y,none,working class,before 2015,50078,17886,coupe,3,0,2,0
+100902,16-25,female,minority,30+ years,university,working class,after 2015,50078,13997,coupe,1,1,1,0
+100903,65+,male,majority,30+ years,university,middle class,after 2015,45001,12798,sedan,4,1,1,0
+100904,56-64,female,majority,0-9y,none,poverty,before 2015,50078,8791,coupe,2,1,1,1
+100905,56-64,female,minority,20-29y,none,working class,after 2015,32765,6357,SUV,0,0,0,0
+100906,26-39,female,majority,30+ years,diploma,poverty,before 2015,32765,13092,sedan,2,1,1,1
+100907,65+,male,minority,0-9y,diploma,working class,before 2015,60124,8225,sedan,3,0,0,1
+100908,40-55,female,minority,0-9y,diploma,poverty,after 2015,30211,16810,SUV,1,0,0,0
+100909,16-25,female,majority,0-9y,university,upper class,after 2015,30211,15318,coupe,1,0,0,0
+100910,26-39,male,majority,0-9y,university,middle class,after 2015,60124,19914,coupe,4,0,0,1
+100911,56-64,male,majority,0-9y,diploma,poverty,before 2015,10238,19166,coupe,1,1,2,0
+100912,40-55,female,majority,0-9y,university,upper class,after 2015,30211,7460,sedan,0,1,0,0
+100913,40-55,female,majority,30+ years,university,poverty,before 2015,32765,13737,sedan,3,1,1,1
+100914,16-25,male,minority,20-29y,none,poverty,after 2015,32765,18920,coupe,2,1,0,1
+100915,56-64,male,minority,0-9y,none,upper class,before 2015,30211,19504,hatchback,3,0,1,1
+100916,65+,female,majority,10-19y,university,poverty,after 2015,32765,7728,coupe,1,0,0,0
+100917,40-55,female,majority,30+ years,diploma,poverty,before 2015,60124,16926,SUV,2,0,2,0
+100918,16-25,female,majority,30+ years,high school,middle class,after 2015,45001,11726,sedan,4,0,0,1
+100919,65+,female,minority,0-9y,diploma,upper class,before 2015,45001,15754,SUV,3,1,0,0
+100920,56-64,male,majority,30+ years,high school,upper class,after 2015,50078,12481,SUV,2,0,2,1
+100921,40-55,female,majority,0-9y,diploma,working class,after 2015,45001,15271,sedan,2,1,0,0
+100922,65+,female,minority,20-29y,none,poverty,before 2015,40056,11430,hatchback,2,0,1,1
+100923,65+,male,minority,20-29y,university,middle class,after 2015,60124,15833,coupe,0,0,0,0
+100924,65+,female,majority,30+ years,university,poverty,before 2015,32765,8114,SUV,3,0,0,1
+100925,40-55,male,majority,30+ years,none,poverty,before 2015,30211,15118,sedan,2,0,0,0
+100926,40-55,female,majority,10-19y,high school,working class,after 2015,45001,5616,SUV,3,1,2,0
+100927,26-39,female,minority,30+ years,high school,poverty,before 2015,60124,8644,coupe,2,1,0,1
+100928,56-64,male,majority,10-19y,high school,middle class,after 2015,45001,11413,hatchback,4,1,0,0
+100929,16-25,male,majority,20-29y,none,middle class,after 2015,10238,6203,hatchback,4,1,1,0
+100930,65+,female,majority,20-29y,high school,working class,before 2015,32765,14951,hatchback,4,0,0,1
+100931,26-39,female,minority,0-9y,none,poverty,after 2015,10238,7565,sedan,1,0,0,0
+100932,16-25,female,minority,20-29y,diploma,middle class,before 2015,32765,8174,sedan,2,1,0,0
+100933,26-39,male,majority,10-19y,diploma,poverty,before 2015,60124,8081,hatchback,1,1,0,0
+100934,40-55,female,majority,30+ years,none,poverty,after 2015,50078,7630,coupe,3,0,1,1
+100935,65+,male,minority,0-9y,university,poverty,after 2015,45001,8161,coupe,1,0,1,1
+100936,16-25,male,minority,10-19y,diploma,working class,before 2015,45001,9321,sedan,3,1,2,1
+100937,16-25,female,minority,30+ years,high school,poverty,before 2015,40056,13861,hatchback,3,1,0,1
+100938,16-25,male,minority,0-9y,none,middle class,after 2015,30211,19051,coupe,3,1,2,1
+100939,16-25,female,minority,20-29y,high school,poverty,after 2015,10238,18204,coupe,1,0,2,0
+100940,16-25,female,minority,10-19y,high school,middle class,after 2015,45001,11269,coupe,2,1,0,0
+100941,26-39,female,minority,30+ years,university,poverty,after 2015,60124,12099,sedan,1,1,1,1
+100942,65+,female,minority,0-9y,high school,middle class,before 2015,50078,12376,hatchback,2,1,1,0
+100943,40-55,female,minority,0-9y,university,middle class,after 2015,30211,16360,SUV,2,1,0,0
+100944,40-55,male,majority,20-29y,diploma,poverty,before 2015,60124,15313,hatchback,3,1,0,0
+100945,40-55,male,majority,30+ years,none,poverty,before 2015,10238,18502,hatchback,1,0,1,0
+100946,40-55,female,majority,20-29y,high school,middle class,after 2015,40056,9078,sedan,2,1,0,1
+100947,26-39,female,minority,20-29y,none,upper class,before 2015,45001,10801,coupe,4,0,0,1
+100948,56-64,male,majority,30+ years,high school,working class,after 2015,60124,19130,coupe,2,1,0,0
+100949,65+,male,minority,30+ years,none,upper class,before 2015,30211,19271,sedan,4,1,1,0
+100950,16-25,male,minority,30+ years,high school,upper class,after 2015,32765,9151,sedan,1,1,2,1
+100951,56-64,male,majority,10-19y,high school,poverty,before 2015,50078,13911,sedan,1,0,2,0
+100952,40-55,female,minority,30+ years,high school,working class,before 2015,30211,7600,sedan,1,0,0,0
+100953,56-64,female,majority,0-9y,high school,upper class,after 2015,60124,11175,sedan,2,0,1,0
+100954,65+,male,majority,20-29y,high school,poverty,after 2015,50078,16790,SUV,0,1,0,1
+100955,16-25,female,majority,10-19y,high school,upper class,before 2015,45001,17861,hatchback,2,1,1,1
+100956,16-25,male,minority,30+ years,high school,upper class,before 2015,32765,5666,hatchback,2,0,0,0
+100957,65+,female,majority,10-19y,high school,poverty,after 2015,40056,5283,hatchback,3,0,1,0
+100958,65+,male,minority,30+ years,high school,poverty,before 2015,30211,10840,coupe,3,1,1,0
+100959,40-55,female,majority,10-19y,none,poverty,after 2015,40056,17095,SUV,2,0,2,0
+100960,16-25,male,majority,20-29y,university,working class,before 2015,32765,8565,hatchback,4,1,0,0
+100961,56-64,male,majority,20-29y,high school,upper class,after 2015,50078,15426,coupe,3,0,2,0
+100962,26-39,female,minority,0-9y,university,poverty,before 2015,45001,9593,SUV,2,0,2,1
+100963,26-39,male,minority,0-9y,high school,middle class,after 2015,60124,6465,SUV,0,0,1,1
+100964,65+,female,minority,30+ years,high school,upper class,after 2015,32765,13321,coupe,4,1,0,0
+100965,40-55,female,majority,20-29y,none,middle class,before 2015,10238,9734,SUV,1,1,1,1
+100966,26-39,male,majority,10-19y,diploma,working class,after 2015,50078,11257,coupe,2,0,1,0
+100967,16-25,female,minority,10-19y,diploma,poverty,before 2015,40056,12366,hatchback,2,1,1,0
+100968,65+,female,minority,10-19y,none,middle class,after 2015,30211,15252,coupe,4,1,0,1
+100969,56-64,female,minority,0-9y,university,working class,after 2015,32765,8672,SUV,3,1,0,1
+100970,65+,female,minority,10-19y,diploma,poverty,after 2015,40056,12382,hatchback,3,1,1,0
+100971,56-64,female,minority,0-9y,none,middle class,before 2015,50078,11587,hatchback,3,0,0,0
+100972,65+,male,minority,0-9y,none,middle class,after 2015,40056,15686,sedan,1,1,1,1
+100973,65+,female,majority,30+ years,diploma,working class,before 2015,32765,18273,sedan,4,1,0,1
+100974,65+,female,minority,10-19y,university,poverty,after 2015,50078,5992,SUV,4,0,0,0
+100975,56-64,female,majority,10-19y,none,poverty,before 2015,10238,11858,coupe,3,1,2,0
+100976,56-64,female,majority,20-29y,high school,middle class,before 2015,32765,7121,coupe,3,1,1,0
+100977,65+,female,minority,30+ years,university,middle class,before 2015,60124,15776,SUV,0,1,2,1
+100978,26-39,male,minority,20-29y,university,middle class,after 2015,45001,17388,hatchback,0,0,2,0
+100979,40-55,female,majority,30+ years,diploma,poverty,before 2015,32765,7223,SUV,2,0,1,1
+100980,40-55,male,minority,10-19y,diploma,working class,after 2015,50078,9522,SUV,2,1,1,0
+100981,40-55,male,minority,0-9y,high school,working class,before 2015,30211,8188,hatchback,4,1,0,1
+100982,56-64,male,majority,0-9y,none,poverty,before 2015,45001,8237,coupe,4,0,1,1
+100983,56-64,male,majority,0-9y,diploma,upper class,before 2015,32765,9136,SUV,1,0,2,1
+100984,26-39,female,majority,0-9y,diploma,working class,before 2015,10238,17716,coupe,1,0,2,1
+100985,40-55,male,minority,0-9y,university,middle class,after 2015,30211,5343,SUV,0,1,1,0
+100986,40-55,male,majority,20-29y,diploma,upper class,before 2015,10238,17653,hatchback,2,1,2,1
+100987,65+,female,minority,30+ years,diploma,upper class,before 2015,60124,9704,hatchback,0,0,0,1
+100988,56-64,female,majority,10-19y,diploma,working class,after 2015,30211,19992,sedan,0,1,2,1
+100989,40-55,female,majority,20-29y,diploma,upper class,before 2015,40056,9823,hatchback,2,1,0,0
+100990,26-39,male,majority,30+ years,university,upper class,before 2015,30211,15468,sedan,1,1,2,0
+100991,26-39,female,minority,0-9y,high school,working class,before 2015,45001,9920,SUV,2,1,0,0
+100992,40-55,female,minority,30+ years,high school,working class,before 2015,30211,8201,coupe,3,1,0,0
+100993,56-64,male,majority,30+ years,none,upper class,after 2015,50078,10471,hatchback,3,1,1,0
+100994,26-39,female,majority,0-9y,diploma,middle class,after 2015,50078,5888,hatchback,3,1,0,0
+100995,65+,female,majority,0-9y,university,poverty,before 2015,40056,15235,hatchback,4,0,1,1
+100996,26-39,female,minority,0-9y,none,upper class,after 2015,30211,14533,SUV,1,0,2,1
+100997,16-25,female,majority,10-19y,none,upper class,after 2015,10238,12127,sedan,1,0,2,1
+100998,16-25,male,minority,0-9y,high school,middle class,before 2015,10238,8720,SUV,4,0,2,0
+100999,56-64,female,majority,10-19y,university,upper class,after 2015,32765,7883,coupe,0,0,0,1
+101000,40-55,female,majority,0-9y,university,upper class,before 2015,60124,18584,SUV,3,0,2,1
