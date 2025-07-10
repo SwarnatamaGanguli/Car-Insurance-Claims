@@ -1,3 +1,6 @@
+![Capture](https://github.com/user-attachments/assets/d3327858-59bd-4372-b74f-9031b89262c0)
+
+
 📊 Car Insurance Claim Analysis – Summary
 Overall Portfolio Metrics:
 Total Policies: 1,000
